@@ -45,7 +45,7 @@
 
 ### AGES IV
 ------------------------------------------
- * <td><a href="https://tools.ages.pucrs.br/@david.neto">David Bertrand Neto</a></td>
+ * <td><a href="https://tools.ages.pucrs.br/david.neto">David Bertrand Neto</a></td>
  * <td><a href="https://tools.ages.pucrs.br/gabriel.stundner">Gabriel Fanto Stundner</a></td>
  * <td><a href="https://tools.ages.pucrs.br/luiz.reis">Luiz Eduardo Mello dos Reis</a></td>
 
