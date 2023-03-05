@@ -29,15 +29,15 @@
 
 ### AGES III
 ------------------------------------------
- * <td><a href="https://tools.ages.pucrs.br/lucas.susin">Lucas Simon Susin</a></td>
  * <td><a href="https://tools.ages.pucrs.br/arthur.ibarra">Arthur Sudbrack Ibarra</a></td>
  * <td><a href="https://tools.ages.pucrs.br/kevin.ribas">Kevin Ribas</a></td>
+ * <td><a href="https://tools.ages.pucrs.br/lucas.susin">Lucas Simon Susin</a></td>
 
 ### AGES IV
 ------------------------------------------
+ * <td><a href="https://tools.ages.pucrs.br/@david.neto">David Bertrand Neto</a></td>
  * <td><a href="https://tools.ages.pucrs.br/gabriel.stundner">Gabriel Fanto Stundner</a></td>
  * <td><a href="https://tools.ages.pucrs.br/luiz.reis">Luiz Eduardo Mello dos Reis</a></td>
- * <td><a href="https://tools.ages.pucrs.br/@david.neto">David Bertrand Neto</a></td>
 
 
 ### Foto do time :100: 
