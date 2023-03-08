@@ -12,9 +12,28 @@ Esta seção é dedicada a apresentar o processo de desenvolvimento do time, jun
 
 ## Git Workflow
 
+Git Workflow é um conjunto de práticas e padrões que as equipes de desenvolvimento usam para colaborar em projetos de software usando o sistema de controle de versão Git.
+
+O Git é uma ferramenta poderosa que permite que os desenvolvedores trabalhem juntos em um mesmo código-fonte sem causar conflitos ou perder trabalho. O Git workflow estabelece uma estrutura para como as alterações no código são gerenciadas, revisadas e implementadas, a fim de garantir que o projeto progrida de maneira organizada e eficiente.
+
+![Imagem](https://tools.ages.pucrs.br/veiculos-via-montadora/wiki/-/raw/8fc13462c45d4d57092f42dc5079c549e71a340a/pictures/processes/gitflow-example.png)
+
+Na imagem acima, é possível observar que um repositório pode ser organizado em galhos, ou ‘branches’. Existe o galho principal ‘master’ e o galho de desenvolvimento ‘develop’, sendo possível criar outros galhos que implementam funcionalidades novas no sistema a partir de ‘develop’. As alterações feitas em outras branches eventualmente são aprovadas e vão para ‘develop’, e, por fim, para ‘master’.
+
+### Fluxo das Branches
+
+Para este projeto, foi-se definido que teremos 2 branches principais, `main` e `develop`.
+
+- `main`: Essa é a branch principal que armazenará o código de cada entrega por Sprint, nessa branch é estritamente necessário que tenhamos o código da aplicação funcionando sem erros, já testado e validado.
+
+- `develop` … (A ser feito)
+
+(Falar aqui embaixo que as branches devem partir de develop e entrar em develop, sempre).
+
+
 ### Nomes das Branches
 
-Para padronizarmos os nomes das branches, deve-se nomeá-las da seguinte forma:
+Para padronizar os nomes das branches, deve-se nomeá-las da seguinte forma:
 
 ```
 <UserStory>-<Descrição>
@@ -22,13 +41,12 @@ Para padronizarmos os nomes das branches, deve-se nomeá-las da seguinte forma:
 
 Como por exemplo:
 ```
-US04-DesenvolverLogin
+US04-desenvolver-login
 ```
 
 ### Semântica dos Commits
 
 Para padronizarmos a descrição dos commits, será utilizado um padrão semântico a fim de facilitar o compreendimento de cada commit. Os padrões serão os seguintes:
-
 
 - **feature:** Tratam adições de novas funcionalidades ou de quaisquer outras novas implantações ao código;
 - **fix:** Essencialmente definem o tratamento de correções de bugs;
@@ -52,7 +70,7 @@ fix-loginError
 Para criar uma branch e começar a trabalhar nela, 3 comandos git serão essenciais, vejamos abaixo quais são eles:
 
 ```sh
-git checkout develop # Vai para a branch ‘development’.
+git checkout develop # Vai para a branch ‘develop’.
 git pull # Puxa as modificações remotas.
 git checkout -b <NOME_DA_SUA_BRANCH_AQUI> # Cria uma nova branch.
 ```
@@ -61,3 +79,4 @@ Utilizando os comandos acima, você estará indo para a branch ‘develop’, pu
 
 ## Template Pull Request 
 
+(A ser feito...)
