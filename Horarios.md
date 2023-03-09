@@ -20,7 +20,7 @@ Esta seção é dedicada para apresentar os alunos de cada AGES e seus respectiv
 ------------------------------------------
 |  | Domingo | Segunda | Terça| Quarta | Quinta | Sexta | Sábado | 
 |--- |--- |--- |--- |--- |--- |--- |--- |
-| <a href="https://tools.ages.pucrs.br/arthur.barroso">Arthur Mariano Foltz Barroso</a>            | | | | | | |
+| <a href="https://tools.ages.pucrs.br/arthur.barroso">Arthur Mariano Foltz Barroso</a> | | | | | | |
 | <a href="https://tools.ages.pucrs.br/israel.garcia">Israel Graziola Garcia</a> | | | | | | |
 | <a href="https://tools.ages.pucrs.br/marcello.marcon">Marcello da Silveira Marcon</a> | | | | | | |
 | <a href="https://tools.ages.pucrs.br/pedro.carlucci">Pedro Carlucci</a> | | | | | | |
