@@ -38,7 +38,7 @@ Esta seção é dedicada para apresentar os alunos de cada AGES e seus respectiv
 |  | Domingo | Segunda | Terça| Quarta | Quinta | Sexta | Sábado | 
 |--- |--- |--- |--- |--- |--- |--- |--- |
 | <a href="https://tools.ages.pucrs.br/david.neto">David Bertrand Neto</a> | | | | | | |
-| <a href="https://tools.ages.pucrs.br/gabriel.stundner">Gabriel Fanto Stundner</a> | | | | | | |
+| <a href="https://tools.ages.pucrs.br/gabriel.stundner">Gabriel Fanto Stundner</a>      | | | | | | |
 | <a href="https://tools.ages.pucrs.br/luiz.reis">Luiz Eduardo Mello dos Reis</a> | | | | | | |
 
 
