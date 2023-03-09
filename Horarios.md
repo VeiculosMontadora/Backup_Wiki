@@ -7,7 +7,7 @@ Esta seção é dedicada para apresentar os alunos de cada AGES e seus respectiv
 ------------------------------------------
 |  | Domingo | Segunda | Terça| Quarta | Quinta | Sexta | Sábado | 
 |--- |--- |--- |--- |--- |--- |--- |--- |
-| <a href="https://tools.ages.pucrs.br/brenda.camara">Brenda Pereira Camara</a> | | | | | | |
+| <a href="https://tools.ages.pucrs.br/brenda.camara">Brenda Pereira Camara</a> |13:00 - 17:00<br>18:00 - 22:00 | :x:|:x: |:x: |:x: |:x: |13:00 - 17:00<br>18:00 - 22:00
 | <a href="https://tools.ages.pucrs.br/carol.ferreira">Carolina Michel Ferreira</a> | | | | | | |
 | <a href="https://tools.ages.pucrs.br/davi.oliveira">Davi Oliveira</a> | | | | | | |
 | <a href="https://tools.ages.pucrs.br/felipe.silva">Felipe Freitas Silva</a> | | | | | | |

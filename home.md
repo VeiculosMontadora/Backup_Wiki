@@ -13,7 +13,9 @@
 
 #### Stakeholders
 ------------------------------------------
- * ?? - *<??>*
+ * Leonardo Cunha
+ * Fabiano Longaray
+ * Luana Lima Vieira
 
 #### Professor Orientador
 ------------------------------------------
