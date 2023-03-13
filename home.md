@@ -4,7 +4,7 @@
 # Bem vindo à Wiki do Veículos Via Montadora
 
 <table align="center"><tr><td align="center" width="9999">
-<img src="https://tools.ages.pucrs.br/veiculos-via-montadora/wiki/-/blob/main/pictures/logos/Veiculos.gif">
+<img src="https://tools.ages.pucrs.br/veiculos-via-montadora/wiki/-/raw/main/pictures/logos/Veiculos.gif" width="400xp">
 </td></tr></table>
 
 ------------------------------------------
