@@ -62,8 +62,10 @@ Para padronizarmos a descrição dos commits, será utilizado um padrão semânt
 
 Exemplo da descrição commit:
 ```
-fix-loginError
+fix: loginError
 ```
+
+https://platform.uno/docs/articles/uno-development/git-conventional-commits.html
 
 ### Criando uma Branch
 
@@ -76,7 +78,3 @@ git checkout -b <NOME_DA_SUA_BRANCH_AQUI> # Cria uma nova branch.
 ```
 
 Utilizando os comandos acima, você estará indo para a branch ‘develop’, puxando todas as modificações remotas e criando uma nova branch a partir de ‘develop’. Você então passará a trabalhar na nova branch criada.
-
-## Template Pull Request 
-
-(A ser feito...)
