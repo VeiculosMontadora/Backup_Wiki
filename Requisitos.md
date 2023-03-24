@@ -1,14 +1,16 @@
 |[Home](home)|[Sprints](sprints)|[Requisitos](requisitos)|[Arquitetura](arquitetura)|[Processos](processos)|[Configuração](configuracao)|[Mockups](mockups)|[Banco de Dados](banco_dados)|[Instalação](instalacao)|[Gerência de Projeto](Gerenciamento do Projeto)|[Horários Disponiveis](horarios)|
 |---|---|---|---|---|---|---|---|---|---|---|
 
-# Épicos
+# User Stories
+
+* Estas User Stories são um bloco de pequenas User Stories que serão separadas em tarefas.
 
 US|NOME|DESCRIÇÃO|CRITÉRIOS DE ACEITAÇÃO
 |---|---|---|---|
 **US01**|Tela de envio de PDFs|Eu, como usuário, gostaria de acessar a tela de envio de PDF para que eu possa poder enviar os meus PDFs para extração.|- Deve ser possível arrastar e soltar PDFs<br>- Deve ser possível selecionar um arquivo do computador.<br>- Deve ter um botão de "Enviar para Análise” que vai começar o tratamento dos PDFs<br>-  A tela deve ter a mesma estrutura apresentado no figma oficial<br>- Ao enviar um PDF, deve ser possível dizer de qual montadora (GM ou Jeep) ele pertence.
 **US02**|Envio de um PDF|Eu, como usuário, gostaria de enviar os PDFs recebidos pela montadora para que possam ser extraídos os dados deles.|- Deve ser possível enviar mais de um PDF ao mesmo tempo.<br>- O sistema deve auto gerenciar a fila de processos dos PDFs.
-**US03**|Tela de extração de dados|Eu, como usuário, gostaria de visualizar o status das extrações de cada um dos PDFs para que eu possa saber quando vai finalizar a extração dos arquivos. |- Deve mostrar um tempo aproximado de conclusão das leituras.<br>- Deve mostrar uma barra de status de cada um dos PDFs sendo extraídos.<br>- Deve mostrar que está carregando os PDFs.
-**US04**|Tela de conclusão de extração|Eu, como usuário, gostaria de visualizar que finalizou a extração dos PDFs para que eu possa depois visualizar os dados.|- O sistema deve me informar de forma clara que todos os PDFs foram extraídos.<br>- Deve possuir um botão com o texto “Visualizar Conteúdo” para a pessoa ir para a visualização dos dados.
+**US03**|Tela de extração de dados|Eu, como usuário, gostaria de visualizar o status das extrações de cada um dos PDFs para que eu possa saber quando vai finalizar a extração dos arquivos. |- Deve mostrar um tempo aproximado de conclusão das leituras.<br>- Deve mostrar uma barra de status de cada um dos PDFs sendo extraídos.<br>- Deve mostrar que todos os PDFs foram extraídos antes de continuar.
+**US04**|Tela de conclusão de extração|Eu, como usuário, gostaria de visualizar que finalizou a extração dos PDFs para que eu possa depois visualizar os dados.|- O sistema deve me informar de forma clara que todos os PDFs foram extraídos.<br>- Deve possuir um botão com o texto “Visualizar Conteúdo” para o cliente poder continuar.
 **US05**|Tela de dados|Eu, como usuário, gostaria de visualizar uma tela com as informações para que eu saiba quais dados foram extraídos do PDF.|- A interface deve seguir o mesmo padrão que o atual sistema (SGS) possui.<br>- Deve ser possível ter dois status de sistema: Visualização e Edição (para correção).<br>- A interface deve possuir, além dos itens essenciais do SGS, uma opção de Descrição Completa vinda da Lista de preços.<br>- Deve estar sinalizado qual é o dado atual que a cliente está mexendo.
 **US06**|Seleção de veículo|Eu, como usuário, gostaria de poder selecionar qual veículo vou visualizar os dados para que eu possa tratar os dados deste veículo.|- Deve possuir um menu visual para selecionar qual veículo gostaria de visualizar os dados.
 **US07**|Botão de copiar|Eu, como usuário, gostaria de poder copiar um único dado da visualização do veículo  para que eu possa colar no projeto SGS.|- Cada campo da tela de dados deve possuir uma opção de Copiar e Colar.<br>- Quando o cliente copiar, deve mostrar em verde o botão para dizer que foi copiado.<br>- O dado deve ser copiado para a área de transferência da cliente.
