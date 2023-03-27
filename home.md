@@ -58,4 +58,4 @@
 ![Time](resources/images/???)
 
 ## Termo de Abertura
-<td><a href="??">Veículos Via Montadora</a></td>
+<td><a href="https://www.ages.pucrs.br/lista-de-projetos-2023-1/veiculos-via-montadora/">Veículos Via Montadora</a></td>
