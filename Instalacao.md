@@ -3,8 +3,8 @@
 
 ## Frontend: Como executar para ambiente de desenvolvimento
 
-1. Instale o ![Node.js](https://nodejs.org/en) versão >= 18.
-2. Instale o ![Yarn](https://yarnpkg.com/) com o comando `npm install -g yarn`.
+1. Instale o Node.js, versão >= 18.
+2. Instale o Yarn com o comando `npm install -g yarn`.
 3. Instale as dependências do projeto com o comando `yarn install`.
     3.1. Para isso, é necessário estar com um terminal aberto na pasta raiz do projeto.
 4. Execute o comando `yarn dev` para iniciar o servidor de desenvolvimento.
