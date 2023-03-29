@@ -11,13 +11,19 @@ Esta seção é dedicada a apresentar a arquitetura definida para o projeto. Ela
 
 ## Frontend
 
+**Repositório:** https://tools.ages.pucrs.br/veiculos-via-montadora/frontend
+
 Trabalho em andamento...
 
 ## Backend
 
+**Repositório:** https://tools.ages.pucrs.br/veiculos-via-montadora/backend
+
 Trabalho em andamento...
 
 ## Infraestrutura
+
+**Repositório:** https://tools.ages.pucrs.br/veiculos-via-montadora/infrastructure
 
 A seguir é apresentada uma visão geral e em alto nível da infraestrutura do projeto:
 
