@@ -25,7 +25,7 @@ A seguir é apresentada uma visão geral e em alto nível da infraestrutura do p
 
 ### Diagrama de Deploy
 
-O diagrama a seguir apresenta o processo de deploy da aplicação e
+O diagrama a seguir apresenta o processo de deploy da infraestrutura do projeto Veículos Via Montadora:
 
 ![Diagrama de Deploy](https://tools.ages.pucrs.br/veiculos-via-montadora/wiki/-/raw/main/pictures/architecture/deploy-diagram.png)
 
