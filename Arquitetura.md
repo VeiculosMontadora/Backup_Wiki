@@ -47,6 +47,8 @@ Essa seção apresenta o orçamento da infraestrutura na AWS. O orçamento foi f
   **Custo Mensal:** ~ R$ 0,00 -
   **Custo Semestral:** ~ R$ 0,00
 
+<hr />
+
 - **AWS S3:** O AWS S3 é um serviço de armazenamento de objetos na nuvem. Ele será utilizado para armazenar o arquivo responsável por guardar o estado do Terraform, o qual será utilizado para provisionar a infraestrutura da aplicação. O custo para armazenar o arquivo será desprezível, visto que o arquivo possui apenas alguns bytes. No entanto, existe a possibilidade de usarmos o AWS S3 para armazenar os PDFs manipulados pelo sistema, os quais são arquivos maiores. Considerando que precisaremos de 10Gb de armazenamento para os arquivos e que a quantidade de dados trafegados será de 100Gb mensais, o custo será de US$ 0.50 por mês, o que representa R$ 2,58.
 
   **Custo Mensal:** ~ R$ 2,58 -
