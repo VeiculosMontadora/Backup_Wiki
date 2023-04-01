@@ -48,7 +48,7 @@ US04-add-login
 
 Para padronizarmos a descrição dos commits, será utilizado um padrão semântico a fim de facilitar o compreendimento de cada commit. Os padrões serão os seguintes:
 
-- **feature:** Tratam adições de novas funcionalidades ou de quaisquer outras novas implantações ao código;
+- **feat:** Tratam adições de novas funcionalidades ou de quaisquer outras novas implantações ao código;
 - **fix:** Essencialmente definem o tratamento de correções de bugs;
 - **docs:** referem-se a inclusão ou alteração somente de arquivos de documentação;
 - **test:** Adicionando testes ausentes ou corrigindo testes existentes nos processos de testes automatizados (TDD);
@@ -58,6 +58,7 @@ Para padronizarmos a descrição dos commits, será utilizado um padrão semânt
 - **refactor:** Tipo utilizado em quaisquer mudanças que sejam executados no código, porém não alterem a funcionalidade final da tarefa impactada;
 - **style:** Alterações referentes a formatações na apresentação do código que não afetam o significado do código, como por exemplo: espaço em branco, formatação, ponto e vírgula ausente etc.);
 - **chore:** Atualização de tarefas que não ocasionam alteração no código de produção, mas mudanças de ferramentas, mudanças de configuração e bibliotecas que realmente não entram em produção;
+- **revert** Reverter mudanças;
 
 Exemplo da descrição commit:
 ```
