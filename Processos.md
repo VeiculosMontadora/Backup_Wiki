@@ -41,7 +41,7 @@ Para padronizar os nomes das branches, deve-se nomeá-las da seguinte forma:
 
 Como por exemplo:
 ```
-US04-desenvolver-login
+US04-add-login
 ```
 
 ### Semântica dos Commits
