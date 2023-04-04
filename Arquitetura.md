@@ -31,7 +31,7 @@ Nessa seção, será apresentada uma visão geral da infraestrutura do projeto.
 
 O diagrama a seguir apresenta a arquitetura em alto nível e o processo de deploy da infraestrutura do projeto Veículos Via Montadora:
 
-![Diagram Arquitetura](https://tools.ages.pucrs.br/veiculos-via-montadora/wiki/-/raw/main/pictures/architecture/architecture-and-deploy-diagram.png)
+![Diagram Arquitetura](https://tools.ages.pucrs.br/veiculos-via-montadora/wiki/-/raw/main/pictures/architecture/architecture-deploy-diagram.png)
 
 ### Orçamento AWS
 
