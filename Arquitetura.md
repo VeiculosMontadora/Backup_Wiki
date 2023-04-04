@@ -25,15 +25,13 @@ Trabalho em andamento...
 
 **Repositório:** https://tools.ages.pucrs.br/veiculos-via-montadora/infrastructure
 
-A seguir é apresentada uma visão geral e em alto nível da infraestrutura do projeto:
-
-![Diagrama Infraestrutura](https://tools.ages.pucrs.br/veiculos-via-montadora/wiki/-/raw/main/pictures/architecture/architecture-diagram.png)
+Nessa seção, será apresentada uma visão geral da infraestrutura do projeto.
 
 ### Diagrama de Deploy
 
-O diagrama a seguir apresenta o processo de deploy da infraestrutura do projeto Veículos Via Montadora:
+O diagrama a seguir apresenta a arquitetura em alto nível e o processo de deploy da infraestrutura do projeto Veículos Via Montadora:
 
-![Diagrama de Deploy](https://tools.ages.pucrs.br/veiculos-via-montadora/wiki/-/raw/main/pictures/architecture/deploy-diagram.png)
+![Diagram Arquitetura](https://tools.ages.pucrs.br/veiculos-via-montadora/wiki/-/raw/main/pictures/architecture/architecture-and-deploy-diagram.png)
 
 ### Orçamento AWS
 
