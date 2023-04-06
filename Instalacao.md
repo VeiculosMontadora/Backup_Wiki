@@ -1,7 +1,13 @@
 |[Home](home)|[Sprints](sprints)|[Requisitos](requisitos)|[Arquitetura](arquitetura)|[Processos](processos)|[Configuração](configuracao)|[Mockups](mockups)|[Banco de Dados](banco_dados)|[Instalação](instalacao)|[Gerência de Projeto](Gerenciamento do Projeto)|[Horários Disponiveis](horarios)|
 |---|---|---|---|---|---|---|---|---|---|---|
 
-## Frontend: Como executar para ambiente de desenvolvimento
+---
+# $`\mathbb{INSTALAÇÕES \space NECESSÁRIAS}`$
+---
+
+### $`\mathbb{FRONTEND}`$
+
+## Como executar para ambiente de desenvolvimento
 
 1. Instale o Node.js, versão >= 18.
 2. Instale o Yarn com o comando `npm install -g yarn`.
@@ -10,3 +16,11 @@
 4. Execute o comando `yarn dev` para iniciar o servidor de desenvolvimento.
     4.1. Depois, acesse o endereço `http://localhost:3000` no seu navegador.
 5. Para mais comandos, veja o arquivo `package.json` em 'scripts'.
+
+---
+
+### $`\mathbb{BACKEND}`$
+
+---
+
+### $`\mathbb{DATABASE}`$

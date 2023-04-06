@@ -1,7 +1,9 @@
 |[Home](home)|[Sprints](sprints)|[Requisitos](requisitos)|[Arquitetura](arquitetura)|[Processos](processos)|[Configuração](configuracao)|[Mockups](mockups)|[Banco de Dados](banco_dados)|[Instalação](instalacao)|[Gerência de Projeto](Gerenciamento do Projeto)|[Horários Disponiveis](horarios)|
 |---|---|---|---|---|---|---|---|---|---|---|
 
-# Processo de Desenvolvimento
+---
+# $`\mathbb{PROCESSO \space DE \space DESENVOLVIMENTO}`$
+---
 
 Esta seção é dedicada a apresentar o processo de desenvolvimento do time, junto dela serão apresentados documentos referentes a maneira como o time se organizou e trabalha.
 

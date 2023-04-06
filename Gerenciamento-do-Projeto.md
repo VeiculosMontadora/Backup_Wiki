@@ -5,7 +5,7 @@
 # $`\mathbb{ÁREA \space DE \space GERENCIAMENTO \space DO \space PROJETO}`$
 ---
 
-### Reponsabilidades
+## Reponsabilidades
 
 Atividades|AGES I|AGES II|AGES III|AGES IV
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ Deploy da aplicação|I|I|R|I
 
 ---
 
-### Plano de comunicação
+## Plano de comunicação
 
 Evento| Objetivo|Meio|Frequência|Audiência|Responsável|Entrega
 |---|---|---|---|---|---|---|

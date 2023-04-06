@@ -1,7 +1,9 @@
 | [Home](home) | [Sprints](sprints) | [Requisitos](requisitos) | [Arquitetura](arquitetura) | [Processos](processos) | [Configuração](configuracao) | [Mockups](mockups) | [Banco de Dados](banco_dados) | [Instalação](instalacao) | [Gerência de Projeto](Gerenciamento do Projeto) | [Horários Disponiveis](horarios) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
-# Mockups e Protótipos do Figma
+---
+# $`\mathbb{MOCKUPS \space E \space PROTÓTIPOS \space DO \space FIGMA}`$
+---
 
 Esta seção é dedicada a apresentar desenvolvimento das telas do projeto, que foram desenvolvidas utilizando o Figma.
 

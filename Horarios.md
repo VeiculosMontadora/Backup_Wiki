@@ -1,7 +1,9 @@
 |[Home](home)|[Sprints](sprints)|[Requisitos](requisitos)|[Arquitetura](arquitetura)|[Processos](processos)|[Configuração](configuracao)|[Mockups](mockups)|[Banco de Dados](banco_dados)|[Instalação](instalacao)|[Gerência de Projeto](Gerenciamento do Projeto)|[Horários Disponiveis](horarios)|
 |---|---|---|---|---|---|---|---|---|---|---|
 
-Esta seção é dedicada para apresentar os alunos de cada AGES e seus respectivos horários nos quais possuem disponibilidade para efetuar as horas complementares a fim de auxiliar a organização para desenvolvimento com outros colegas.
+---
+# $`\mathbb{HORÁRIOS \space DISPONÍVEIS}`$
+---
 
 ### AGES I
 ------------------------------------------
