@@ -2,7 +2,7 @@
 |---|---|---|---|---|---|---|---|---|---|---|
 
 ---
-$$\mathbb{CONTROLE \space DE \space SPRINTS}$$
+# $`\mathbb{CONTROLE \space DE \space SPRINTS}`$
 ---
 
 ## Sprint 0
@@ -13,12 +13,6 @@ $$\mathbb{CONTROLE \space DE \space SPRINTS}$$
 **Squads** = As Squads foram definidas mas não usadas nessa Sprint, foi feito os Mockups e elaborado a Infraestrutura do projeto.
 
 **Participações nas Dailys de Sexta** = Como foi algo novo, muitos não sabiam da existencia por falta de comunicação, mas aqui um resumo:
-
-```mermaid
-pie title Daily 10/03/2023
-    "Participaram" : 3
-    "Não Participaram" : 14
-```
 
 ## Sprint 1
 
