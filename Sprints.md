@@ -1,12 +1,41 @@
 |[Home](home)|[Sprints](sprints)|[Requisitos](requisitos)|[Arquitetura](arquitetura)|[Processos](processos)|[Configuração](configuracao)|[Mockups](mockups)|[Banco de Dados](banco_dados)|[Instalação](instalacao)|[Gerência de Projeto](Gerenciamento do Projeto)|[Horários Disponiveis](horarios)|
 |---|---|---|---|---|---|---|---|---|---|---|
 
-Iremos utilizar a seguinte notação para controlar o Status do Projeto
+---
+$$\mathbb{CONTROLE \space DE \space SPRINTS}$$
+---
 
-|Emoji|Código|Significado
-|---|---|---|
-:white_check_mark:|`:white_check_mark:`| User Stories Aceita
-:x:|`:x:`| User Stories Não Aceita
-:warning:|`:warning:`| User Stories Com Débito Técnico
+## Sprint 0
 
-Para cada uma das Sprints abaixo serão exibidas tabelas com cada User Story selecionada para ser desenvolvida na Sprint, apresentaremos o título do User Story e o seu Status na Sprint.
+- Começo:  
+- Fim:
+
+**Squads** = As Squads foram definidas mas não usadas nessa Sprint, foi feito os Mockups e elaborado a Infraestrutura do projeto.
+
+**Participações nas Dailys de Sexta** = Como foi algo novo, muitos não sabiam da existencia por falta de comunicação, mas aqui um resumo:
+
+```mermaid
+pie title Daily 10/03/2023
+    "Participaram" : 3
+    "Não Participaram" : 14
+```
+
+## Sprint 1
+
+- Começo: 
+- Fim: 
+
+## Sprint 2
+
+- Começo: 
+- Fim: 
+
+## Sprint 3
+
+- Começo: 
+- Fim: 
+
+## Sprint 4
+
+- Começo: 
+- Fim: 
