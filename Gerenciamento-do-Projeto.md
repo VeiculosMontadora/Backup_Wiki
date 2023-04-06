@@ -2,7 +2,7 @@
 |---|---|---|---|---|---|---|---|---|---|---|
 
 ---
-$$\mathbb{ÁREA \space DE \space GERENCIAMENTO \space DO \space PROJETO}$$
+# $`\mathbb{ÁREA \space DE \space GERENCIAMENTO \space DO \space PROJETO}`$
 ---
 
 ### Reponsabilidades
@@ -18,10 +18,10 @@ Code Review|R|R|R|R
 Executar testes funcionais|R|R|R|I
 Deploy da aplicação|I|I|R|I
 
-- I $\to$ Deve ser Informado
-- C $\to$ Deve ser Consultado
-- R $\to$ Responsável
-- A $\to$ Aprova
+- I $`\to`$ Deve ser Informado
+- C $`\to`$ Deve ser Consultado
+- R $`\to`$ Responsável
+- A $`\to`$ Aprova
 
 ---
 
