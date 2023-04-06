@@ -2,7 +2,7 @@
 |---|---|---|---|---|---|---|---|---|---|---|
 
 ---
-$$\mathbb{BANCO \space DE \space DADOS}$$
+# $`\mathbb{BANCO \space DE \space DADOS}`$
 ---
 
 - Nosso banco de dados será não-relacional utilizando a tecnologia MongoDB
