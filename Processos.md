@@ -80,3 +80,19 @@ git checkout -b <NOME_DA_SUA_BRANCH_AQUI> # Cria uma nova branch.
 ```
 
 Utilizando os comandos acima, você estará indo para a branch ‘develop’, puxando todas as modificações remotas e criando uma nova branch a partir de ‘develop’. Você então passará a trabalhar na nova branch criada.
+
+### Code freezing
+
+<TBD>
+
+### Definition of Ready
+
+<TBD>
+
+### Definition of Done
+
+Para que uma tarefa seja considerada concluída ela deve seguir as seguintes condições:
+- O merge request da branch em que a tarefa foi desenvolvida para a develop deve ter sido concluída
+- O código deve ter sido revisado e aprovado
+- O código deve ter testes unitários e ter sido testado manualmente
+- Qualquer documentação necessária deve ter sido escrita (payloads, endpoints, ...)
