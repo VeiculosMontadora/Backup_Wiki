@@ -34,7 +34,7 @@
 <tr>
 <td colspan="3">
 <p><strong>User Stories:</strong></p>
- <a href="E01-US01">E01-US01</a>, <a href="#E01-US02">E01-US02</a>, <a href="#E01-US03">E01-US03</a>
+ [E01-US01](#E01-US01), <a href="#E01-US02">E01-US02</a>, <a href="#E01-US03">E01-US03</a>
 </td>
 </tr>
 </tbody>
@@ -117,11 +117,13 @@
 
 ### $`\mathbb{USER \space STORIES}`$
 
+---
+
+<a id="E01-US01"></a>
 <table>
 <tbody>
 <tr>
 <td colspan="3">
-<a id="E01-US01"></a>
 <p><strong>E01-US01</strong></p>
 </td>
 </tr>
