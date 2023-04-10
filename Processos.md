@@ -64,7 +64,7 @@ Para padronizarmos a descrição dos commits, será utilizado um padrão semânt
 
 Exemplo da descrição commit:
 ```
-fix: loginError
+fix: login error -> qualquer coisa aqui
 ```
 
 https://platform.uno/docs/articles/uno-development/git-conventional-commits.html
