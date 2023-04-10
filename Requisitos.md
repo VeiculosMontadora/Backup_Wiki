@@ -5,13 +5,9 @@
 # $`\mathbb{REQUISITOS}`$
 ---
 
-## $`\mathbb{USER \space STORIES}`$
-
----
-
 ### $`\mathbb{EPICS}`$
 
-<table align="center"><tr><td align="center" width="400">
+<table align="center"><tr><td align="center" width="9999">
 <table>
 <thead>
 <tr>
@@ -47,7 +43,7 @@
 
 ---
 
-<table align="center"><tr><td align="center" width="400">
+<table align="center"><tr><td align="center" width="9999">
 <table>
 <thead>
 <tr>
@@ -83,7 +79,7 @@
 
 ---
 
-<table align="center"><tr><td align="center" width="400">
+<table align="center"><tr><td align="center" width="9999">
 <table>
 <thead>
 <tr>
