@@ -5,7 +5,7 @@
 # $`\mathbb{REQUISITOS}`$
 ---
 
-Documento melhorado: [https://github.com/VeiculosMontadora/Management/blob/main/UserStories.md](https://github.com/VeiculosMontadora/Management/blob/main/UserStories.md)
+Documento melhorado: [User Stories (Github)](https://github.com/VeiculosMontadora/Management/blob/main/UserStories.md)
 
 ### $`\mathbb{EPICS}`$
 
