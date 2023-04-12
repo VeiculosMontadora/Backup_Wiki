@@ -5,6 +5,8 @@
 # $`\mathbb{REQUISITOS}`$
 ---
 
+Documento melhorado: [https://github.com/VeiculosMontadora/Management/blob/main/UserStories.md](https://github.com/VeiculosMontadora/Management/blob/main/UserStories.md)
+
 ### $`\mathbb{EPICS}`$
 
 <table align="center"><tr><td align="center" width="9999">
