@@ -1,6 +1,6 @@
 * [Home](https://tools.ages.pucrs.br/veiculos-via-montadora/wiki.wiki.git)
 
-#### Documentação do negócio
+###### Documentação do negócio
 
 * [Controle de Sprints](https://tools.ages.pucrs.br/veiculos-via-montadora/wiki/-/wikis/sprints)
 * [Requisitos de negócio(US)](https://tools.ages.pucrs.br/veiculos-via-montadora/wiki/-/wikis/requisitos)
@@ -8,7 +8,7 @@
 * [Gerenciamento do projeto](https://tools.ages.pucrs.br/veiculos-via-montadora/wiki/-/wikis/Gerenciamento%20do%20Projeto)
 * [Horários Disponíveis](https://tools.ages.pucrs.br/veiculos-via-montadora/wiki/-/wikis/horarios)
 
-#### Documentação técnica
+###### Documentação técnica
 
 * [Arquitetura](https://tools.ages.pucrs.br/veiculos-via-montadora/wiki/-/wikis/arquitetura)
 * [Mockups](https://tools.ages.pucrs.br/veiculos-via-montadora/wiki/-/wikis/mockups)

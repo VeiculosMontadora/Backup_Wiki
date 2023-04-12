@@ -10,7 +10,9 @@ Esta seção é dedicada a apresentar o processo de desenvolvimento do time, jun
 ## Sumário
 
 - [Git Workflow](#git-workflow)
-- [Template Pull Request](#template-pull-request)
+- [Code Freezing](#code-freezing)
+- [Definition of Ready](#definition-of-ready)
+- [Definition of Done](#definition-of-done)
 
 ## Git Workflow
 
@@ -81,20 +83,28 @@ git checkout -b <NOME_DA_SUA_BRANCH_AQUI> # Cria uma nova branch.
 
 Utilizando os comandos acima, você estará indo para a branch ‘develop’, puxando todas as modificações remotas e criando uma nova branch a partir de ‘develop’. Você então passará a trabalhar na nova branch criada.
 
+---
+
 ### Code freezing
 
-Code freezing é uma data para congelamento de entrada de código em produção. Após essa data, nenhum merge request será mais aceito. A única coisa que pode passar por esse bloqueio são hotfixes para erros em produção
+Code freezing é uma data para congelamento de entrada de código em produção. Após essa data, nenhum merge request será mais aceito. A única coisa que pode passar por esse bloqueio são hotfixes para erros em produção.
+
+---
 
 ### Definition of Ready
 
 Para que uma tarefa seja considerada pronta para desenvolvimento, ela deve seguir as seguintes condições:
-- Qualquer tarefa da qual ela tenha dependência
-- O ambiente de desenvolvimento local deve estar devidamente setado
+- Qualquer tarefa da qual ela tenha dependência.
+- O ambiente de desenvolvimento local deve estar devidamente setado.
+
+---
 
 ### Definition of Done
 
 Para que uma tarefa seja considerada concluída ela deve seguir as seguintes condições:
-- O merge request da branch em que a tarefa foi desenvolvida para a develop deve ter sido concluída
-- O código deve ter sido revisado e aprovado
-- O código deve ter testes unitários e ter sido testado manualmente
-- Qualquer documentação necessária deve ter sido escrita (payloads, endpoints, ...)
+- O merge request da branch em que a tarefa foi desenvolvida para a develop deve ter sido concluída.
+- O código deve ter sido revisado e aprovado.
+- O código deve ter testes unitários e ter sido testado manualmente.
+- Qualquer documentação necessária deve ter sido escrita (payloads, endpoints, ...).
+
+---
