@@ -83,11 +83,13 @@ Utilizando os comandos acima, você estará indo para a branch ‘develop’, pu
 
 ### Code freezing
 
-<TBD>
+Code freezing é uma data para congelamento de entrada de código em produção. Após essa data, nenhum merge request será mais aceito. A única coisa que pode passar por esse bloqueio são hotfixes para erros em produção
 
 ### Definition of Ready
 
-<TBD>
+Para que uma tarefa seja considerada pronta para desenvolvimento, ela deve seguir as seguintes condições:
+- Qualquer tarefa da qual ela tenha dependência
+- O ambiente de desenvolvimento local deve estar devidamente setado
 
 ### Definition of Done
 
