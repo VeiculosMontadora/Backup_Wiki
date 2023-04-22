@@ -112,6 +112,6 @@ pie title Daily 14/04 - Sprint 2
 ```mermaid
 pie title Daily 21/04 - Sprint 2
     "Participaram" : 16
-    "Não participaram" : 3
+    "Não participaram" : 2
 ```
 
