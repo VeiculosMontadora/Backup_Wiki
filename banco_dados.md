@@ -1,5 +1,5 @@
 
----
+
 [![](https://img.shields.io/badge/Home-000000?style=for-the-badge&logo=markdown&logoColor=white)](home)
 
 # Documentação do negócio
@@ -12,7 +12,7 @@
 # Documentação técnica
 [![](https://img.shields.io/badge/Arquitetura-000000?style=for-the-badge&logo=markdown&logoColor=white)](arquitetura)
 [![](https://img.shields.io/badge/Mockups-000000?style=for-the-badge&logo=markdown&logoColor=white)](mockups)
-[![](https://img.shields.io/badge/Banco de dados-FF7518?style=for-the-badge&logo=markdown&logoColor=black)](banco_dados)
+[![](https://img.shields.io/badge/Banco_de_dados-FF7518?style=for-the-badge&logo=markdown&logoColor=black)](banco_dados)
 [![](https://img.shields.io/badge/Instalação-000000?style=for-the-badge&logo=markdown&logoColor=white)](instalacao)
 [![](https://img.shields.io/badge/Configuração-000000?style=for-the-badge&logo=markdown&logoColor=white)](configuracao)
 
