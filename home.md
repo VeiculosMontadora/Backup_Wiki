@@ -8,6 +8,7 @@
 [![](https://img.shields.io/badge/Processos-000000?style=for-the-badge&logo=markdown&logoColor=white)](processos)
 [![](https://img.shields.io/badge/Gerência-000000?style=for-the-badge&logo=markdown&logoColor=white)](gerencia)
 [![](https://img.shields.io/badge/Horários-000000?style=for-the-badge&logo=markdown&logoColor=white)](horarios)
+[![](https://img.shields.io/badge/squads-000000?style=for-the-badge&logo=markdown&logoColor=white)](squads)
 
 # Documentação técnica
 [![](https://img.shields.io/badge/Arquitetura-000000?style=for-the-badge&logo=markdown&logoColor=white)](arquitetura)
@@ -68,7 +69,7 @@
 
 
 ### Foto do time :100: 
-![Time](https://tools.ages.pucrs.br/veiculos-via-montadora/wiki/-/raw/main/team/Equipe.jpeg)
+![Time](https://tools.ages.pucrs.br/veiculos-via-montadora/wiki/-/raw/main/pictures/equipe.jpg)
 
 ## Termo de Abertura
 <td><a href="https://www.ages.pucrs.br/lista-de-projetos-2023-1/veiculos-via-montadora/">Veículos Via Montadora</a></td>

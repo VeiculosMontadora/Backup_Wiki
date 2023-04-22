@@ -8,6 +8,7 @@
 [![](https://img.shields.io/badge/Processos-000000?style=for-the-badge&logo=markdown&logoColor=white)](processos)
 [![](https://img.shields.io/badge/Gerência-000000?style=for-the-badge&logo=markdown&logoColor=white)](gerencia)
 [![](https://img.shields.io/badge/Horários-000000?style=for-the-badge&logo=markdown&logoColor=white)](horarios)
+[![](https://img.shields.io/badge/squads-000000?style=for-the-badge&logo=markdown&logoColor=white)](squads)
 
 # Documentação técnica
 [![](https://img.shields.io/badge/Arquitetura-000000?style=for-the-badge&logo=markdown&logoColor=white)](arquitetura)
@@ -60,4 +61,8 @@ TBD (Explicação do banco de dados)
   }
 }
 ```
+
+### Diagrama do Banco de dados
+
+![](https://tools.ages.pucrs.br/veiculos-via-montadora/wiki/-/raw/main/pictures/database.png)
 
