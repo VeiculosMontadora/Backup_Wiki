@@ -2,7 +2,37 @@
 |---|---|---|---|---|---|---|---|---|---|---|
 
 ---
+[![](https://img.shields.io/badge/Home-000000?style=for-the-badge&logo=markdown&logoColor=white)](home)
+
+# Documentação do negócio
+[![](https://img.shields.io/badge/Sprints-000000?style=for-the-badge&logo=markdown&logoColor=white)](sprints)
+[![](https://img.shields.io/badge/Requisitos-000000?style=for-the-badge&logo=markdown&logoColor=white)](requisitos)
+[![](https://img.shields.io/badge/Processos-000000?style=for-the-badge&logo=markdown&logoColor=white)](processos)
+[![](https://img.shields.io/badge/Gerência-000000?style=for-the-badge&logo=markdown&logoColor=white)](Gerenciamento do Projeto)
+[![](https://img.shields.io/badge/Horários-000000?style=for-the-badge&logo=markdown&logoColor=white)](horarios)
+
+# Documentação técnica
+[![]()]()
+[![]()]()
+[![]()]()
+[![]()]()
+[![]()]()
+
+---
 # $`\mathbb{CONTROLE \space DE \space SPRINTS}`$
+---
+
+- [Cronograma](#cronograma)
+    - [Sprint 0](#sprint-0)
+    - [Sprint 1](#sprint-1)
+    - [Sprint 2](#sprint-2)
+    - [Sprint 3](#sprint-3)
+    - [Sprint 4](#sprint-4)
+- [Controle das Dailys de sextas feiras](#controle-das-dailys-de-sextas-feiras)
+    - [Sprint 0](#daily-sprint-0)
+    - [Sprint 1](#daily-sprint-1)
+    - [Sprint 2](#daily-sprint-2)
+
 ---
 
 ## Cronograma
@@ -39,7 +69,7 @@
 
 ## Controle das Dailys de sextas feiras
 
-### Sprint 0
+### Daily Sprint 0
 
 ```mermaid
 pie title Daily 10/03 - Sprint 0
@@ -52,3 +82,38 @@ pie title Daily 17/03 - Sprint 0
     "Participaram" : 13
     "Não participaram" : 5
 ```
+
+```mermaid
+pie title Daily 24/03 - Sprint 0
+    "Participaram" : 8
+    "Não participaram" : 10
+```
+
+### Daily Sprint 1
+
+```mermaid
+pie title Daily 31/03 - Sprint 1
+    "Participaram" : 13
+    "Não participaram" : 5
+```
+
+```mermaid
+pie title Daily 07/04 - Sprint 1
+    "Participaram" : 5
+    "Não participaram" : 13
+```
+
+### Daily Sprint 2
+
+```mermaid
+pie title Daily 14/04 - Sprint 2
+    "Participaram" : 14
+    "Não participaram" : 4
+```
+
+```mermaid
+pie title Daily 21/04 - Sprint 2
+    "Participaram" : 12
+    "Não participaram" : 6
+```
+
