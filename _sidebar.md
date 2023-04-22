@@ -5,7 +5,7 @@
 * [Controle de Sprints](https://tools.ages.pucrs.br/veiculos-via-montadora/wiki/-/wikis/sprints)
 * [Requisitos de negócio(US)](https://tools.ages.pucrs.br/veiculos-via-montadora/wiki/-/wikis/requisitos)
 * [Processo de desenvolvimento](https://tools.ages.pucrs.br/veiculos-via-montadora/wiki/-/wikis/processos)
-* [Gerenciamento do projeto](https://tools.ages.pucrs.br/veiculos-via-montadora/wiki/-/wikis/Gerenciamento%20do%20Projeto)
+* [Gerênciamento do projeto](https://tools.ages.pucrs.br/veiculos-via-montadora/wiki/-/wikis/gerencia)
 * [Horários Disponíveis](https://tools.ages.pucrs.br/veiculos-via-montadora/wiki/-/wikis/horarios)
 
 ###### Documentação técnica
