@@ -22,9 +22,9 @@
 
 ---
 
-- [SQUAD DO DAVID]()
-- [SQUAD DO FANTO]()
-- [SQUAD DO LUIZ]()
+- [SQUAD DO DAVID](#squad-do-david)
+- [SQUAD DO FANTO](#squad-do-fanto)
+- [SQUAD DO LUIZ](#squad-do-luiz)
 
 ---
 

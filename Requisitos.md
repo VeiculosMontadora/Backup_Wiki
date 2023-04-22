@@ -23,7 +23,33 @@
 
 Documento melhorado: [User Stories (Github)](https://github.com/VeiculosMontadora/Management/blob/main/UserStories.md)
 
-### $`\mathbb{EPICS}`$
+- [Épicos](#épicos)
+    - [E01](#e01)
+    - [E02](#e02)
+    - [E03](#e03)
+- [USER STORIES](#user-stories)
+    - [E01-US01](#e01-us01)
+    - [E01-US02](#e01-us02)
+    - [E01-US03](#e01-us03)
+    - [E02-US01](#e02-us01)
+    - [E02-US02](#e02-us02)
+    - [E02-US03](#e02-us03)
+    - [E02-US04](#e02-us04)
+    - [E02-US05](#e02-us05)
+    - [E02-US06](#e02-us06)
+    - [E03-US01](#e03-us01)
+    - [E03-US02](#e03-us02)
+    - [E03-US03](#e03-us03)
+    - [E03-US04](#e03-us04)
+    - [E03-US05](#e03-us05)
+    - [E03-US06](#e03-us06)
+
+
+## Épicos
+
+---
+
+### E01
 
 <table align="center"><tr><td align="center" width="9999">
 <table>
@@ -61,6 +87,8 @@ Documento melhorado: [User Stories (Github)](https://github.com/VeiculosMontador
 
 ---
 
+### E02
+
 <table align="center"><tr><td align="center" width="9999">
 <table>
 <thead>
@@ -96,6 +124,8 @@ Documento melhorado: [User Stories (Github)](https://github.com/VeiculosMontador
 </td></tr></table>
 
 ---
+
+### E03
 
 <table align="center"><tr><td align="center" width="9999">
 <table>
@@ -133,9 +163,11 @@ Documento melhorado: [User Stories (Github)](https://github.com/VeiculosMontador
 
 ---
 
-### $`\mathbb{USER \space STORIES}`$
+## USER STORIES
 
 ---
+
+### E01-US01
 
 <a id="E01-US01"></a>
 <table>
@@ -190,6 +222,8 @@ Documento melhorado: [User Stories (Github)](https://github.com/VeiculosMontador
 
 ---
 
+### E01-US02
+
 <table>
 <tbody>
 <tr>
@@ -238,6 +272,8 @@ Documento melhorado: [User Stories (Github)](https://github.com/VeiculosMontador
 </table>
 
 ---
+
+### E01-US03
 
 <table>
 <tbody>
@@ -288,6 +324,8 @@ Documento melhorado: [User Stories (Github)](https://github.com/VeiculosMontador
 
 ---
 
+### E02-US01
+
 <table>
 <tbody>
 <tr>
@@ -335,6 +373,8 @@ Documento melhorado: [User Stories (Github)](https://github.com/VeiculosMontador
 
 ---
 
+### E02-US02
+
 <table>
 <tbody>
 <tr>
@@ -380,6 +420,8 @@ Documento melhorado: [User Stories (Github)](https://github.com/VeiculosMontador
 </table>
 
 ---
+
+# E02-US03
 
 <table>
 <tbody>
@@ -427,6 +469,8 @@ Documento melhorado: [User Stories (Github)](https://github.com/VeiculosMontador
 
 ---
 
+### E02-US04
+
 <table>
 <tbody>
 <tr>
@@ -473,6 +517,8 @@ Documento melhorado: [User Stories (Github)](https://github.com/VeiculosMontador
 
 ---
 
+### E02-US05
+
 <table>
 <tbody>
 <tr>
@@ -517,6 +563,8 @@ Documento melhorado: [User Stories (Github)](https://github.com/VeiculosMontador
 
 ---
 
+### E02-US06
+
 <table>
 <tbody>
 <tr>
@@ -560,6 +608,8 @@ Documento melhorado: [User Stories (Github)](https://github.com/VeiculosMontador
 </table>
 
 ---
+
+### E03-US01
 
 <table>
 <tbody>
@@ -616,6 +666,8 @@ Documento melhorado: [User Stories (Github)](https://github.com/VeiculosMontador
 
 ---
 
+### E03-US02
+
 <table>
 <tbody>
 <tr>
@@ -665,6 +717,8 @@ Documento melhorado: [User Stories (Github)](https://github.com/VeiculosMontador
 
 ---
 
+### E03-US03
+
 <table>
 <tbody>
 <tr>
@@ -713,6 +767,8 @@ Documento melhorado: [User Stories (Github)](https://github.com/VeiculosMontador
 </table>
 
 ---
+
+### E03-US04
 
 <table>
 <tbody>
@@ -765,6 +821,8 @@ Documento melhorado: [User Stories (Github)](https://github.com/VeiculosMontador
 
 ---
 
+### E03-US05
+
 <table>
 <tbody>
 <tr>
@@ -809,6 +867,8 @@ Documento melhorado: [User Stories (Github)](https://github.com/VeiculosMontador
 </table>
 
 ---
+
+### E03-US06
 
 <table>
 <tbody>
