@@ -67,51 +67,904 @@
 
 ## Controle das Dailys de sextas feiras
 
-### Daily Sprint 0
+### Sprint 0
+
+<p>
+<details>
+<summary>Daily 10/03/2023</summary>
 
 ```mermaid
 pie title Daily 10/03 - Sprint 0
-    "Participaram" : 3
-    "Não participaram" : 15
+    "Participaram - 3" : 3
+    "Não participaram - 15" : 15
 ```
+
+<h3>Participantes</h3>
+<table>
+  <tr>
+    <th>Nome</th>
+    <th>Nível</th>
+    <th>Presença</th>
+  </tr>
+  <tr>
+    <td>Brenda Pereira</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Carolina Ferreira</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Davi Oliveira</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Felipe Freitas</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Gabriel Giaretta</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Gabriel Ferreira</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Guilherme Pereira</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Matheus Caçabuena</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Arthur Mariano</td>
+    <td>AGES II</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Israel Garcia</td>
+    <td>AGES II</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Marcello Marcon</td>
+    <td>AGES II</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Pedro Carlucci</td>
+    <td>AGES II</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Arthur Ibarra</td>
+    <td>AGES III</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Kevin Ribas</td>
+    <td>AGES III</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Lucas Susin</td>
+    <td>AGES III</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>David Bertrand</td>
+    <td>AGES IV</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Gabriel Fanto</td>
+    <td>AGES IV</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Luiz Eduardo</td>
+    <td>AGES IV</td>
+    <td>✅❌</td>
+  </tr>
+</table>
+
+</details>
+</p>
+
+<p>
+<details>
+<summary>Daily 17/03/2023</summary>
 
 ```mermaid
 pie title Daily 17/03 - Sprint 0
-    "Participaram" : 13
-    "Não participaram" : 5
+    "Participaram - 13" : 13
+    "Não participaram - 5" : 5
 ```
+
+<h3>Participantes</h3>
+<table>
+  <tr>
+    <th>Nome</th>
+    <th>Nível</th>
+    <th>Presença</th>
+  </tr>
+  <tr>
+    <td>Brenda Pereira</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Carolina Ferreira</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Davi Oliveira</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Felipe Freitas</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Gabriel Giaretta</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Gabriel Ferreira</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Guilherme Pereira</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Matheus Caçabuena</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Arthur Mariano</td>
+    <td>AGES II</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Israel Garcia</td>
+    <td>AGES II</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Marcello Marcon</td>
+    <td>AGES II</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Pedro Carlucci</td>
+    <td>AGES II</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Arthur Ibarra</td>
+    <td>AGES III</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Kevin Ribas</td>
+    <td>AGES III</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Lucas Susin</td>
+    <td>AGES III</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>David Bertrand</td>
+    <td>AGES IV</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Gabriel Fanto</td>
+    <td>AGES IV</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Luiz Eduardo</td>
+    <td>AGES IV</td>
+    <td>✅❌</td>
+  </tr>
+</table>
+
+</details>
+</p>
+
+<p>
+<details>
+<summary>Daily 24/03/2023</summary>
 
 ```mermaid
 pie title Daily 24/03 - Sprint 0
-    "Participaram" : 8
-    "Não participaram" : 10
+    "Participaram - 8" : 8
+    "Não participaram - 10" : 10
 ```
+
+<h3>Participantes</h3>
+<table>
+  <tr>
+    <th>Nome</th>
+    <th>Nível</th>
+    <th>Presença</th>
+  </tr>
+  <tr>
+    <td>Brenda Pereira</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Carolina Ferreira</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Davi Oliveira</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Felipe Freitas</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Gabriel Giaretta</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Gabriel Ferreira</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Guilherme Pereira</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Matheus Caçabuena</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Arthur Mariano</td>
+    <td>AGES II</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Israel Garcia</td>
+    <td>AGES II</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Marcello Marcon</td>
+    <td>AGES II</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Pedro Carlucci</td>
+    <td>AGES II</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Arthur Ibarra</td>
+    <td>AGES III</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Kevin Ribas</td>
+    <td>AGES III</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Lucas Susin</td>
+    <td>AGES III</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>David Bertrand</td>
+    <td>AGES IV</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Gabriel Fanto</td>
+    <td>AGES IV</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Luiz Eduardo</td>
+    <td>AGES IV</td>
+    <td>✅❌</td>
+  </tr>
+</table>
+
+</details>
+</p>
 
 ### Daily Sprint 1
 
+<p>
+<details>
+<summary>Daily 31/03/2023</summary>
+
 ```mermaid
 pie title Daily 31/03 - Sprint 1
-    "Participaram" : 13
-    "Não participaram" : 5
+    "Participaram - 13" : 13
+    "Não participaram - 5" : 5
 ```
+
+<h3>Participantes</h3>
+<table>
+  <tr>
+    <th>Nome</th>
+    <th>Nível</th>
+    <th>Presença</th>
+  </tr>
+  <tr>
+    <td>Brenda Pereira</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Carolina Ferreira</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Davi Oliveira</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Felipe Freitas</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Gabriel Giaretta</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Gabriel Ferreira</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Guilherme Pereira</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Matheus Caçabuena</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Arthur Mariano</td>
+    <td>AGES II</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Israel Garcia</td>
+    <td>AGES II</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Marcello Marcon</td>
+    <td>AGES II</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Pedro Carlucci</td>
+    <td>AGES II</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Arthur Ibarra</td>
+    <td>AGES III</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Kevin Ribas</td>
+    <td>AGES III</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Lucas Susin</td>
+    <td>AGES III</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>David Bertrand</td>
+    <td>AGES IV</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Gabriel Fanto</td>
+    <td>AGES IV</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Luiz Eduardo</td>
+    <td>AGES IV</td>
+    <td>✅❌</td>
+  </tr>
+</table>
+
+</details>
+</p>
+
+<p>
+<details>
+<summary>Daily 07/04/2023</summary>
 
 ```mermaid
 pie title Daily 07/04 - Sprint 1
-    "Participaram" : 5
-    "Não participaram" : 13
+    "Participaram - 5" : 5
+    "Não participaram - 13" : 13
 ```
+
+<h3>Participantes</h3>
+<table>
+  <tr>
+    <th>Nome</th>
+    <th>Nível</th>
+    <th>Presença</th>
+  </tr>
+  <tr>
+    <td>Brenda Pereira</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Carolina Ferreira</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Davi Oliveira</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Felipe Freitas</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Gabriel Giaretta</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Gabriel Ferreira</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Guilherme Pereira</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Matheus Caçabuena</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Arthur Mariano</td>
+    <td>AGES II</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Israel Garcia</td>
+    <td>AGES II</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Marcello Marcon</td>
+    <td>AGES II</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Pedro Carlucci</td>
+    <td>AGES II</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Arthur Ibarra</td>
+    <td>AGES III</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Kevin Ribas</td>
+    <td>AGES III</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Lucas Susin</td>
+    <td>AGES III</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>David Bertrand</td>
+    <td>AGES IV</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Gabriel Fanto</td>
+    <td>AGES IV</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Luiz Eduardo</td>
+    <td>AGES IV</td>
+    <td>✅❌</td>
+  </tr>
+</table>
+
+</details>
+</p>
 
 ### Daily Sprint 2
 
+<p>
+<details>
+<summary>Daily 14/04/2023</summary>
+
 ```mermaid
 pie title Daily 14/04 - Sprint 2
-    "Participaram" : 14
-    "Não participaram" : 4
+    "Participaram - 14" : 14
+    "Não participaram - 4" : 4
 ```
+
+<h3>Participantes</h3>
+<table>
+  <tr>
+    <th>Nome</th>
+    <th>Nível</th>
+    <th>Presença</th>
+  </tr>
+  <tr>
+    <td>Brenda Pereira</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Carolina Ferreira</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Davi Oliveira</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Felipe Freitas</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Gabriel Giaretta</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Gabriel Ferreira</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Guilherme Pereira</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Matheus Caçabuena</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Arthur Mariano</td>
+    <td>AGES II</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Israel Garcia</td>
+    <td>AGES II</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Marcello Marcon</td>
+    <td>AGES II</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Pedro Carlucci</td>
+    <td>AGES II</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Arthur Ibarra</td>
+    <td>AGES III</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Kevin Ribas</td>
+    <td>AGES III</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Lucas Susin</td>
+    <td>AGES III</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>David Bertrand</td>
+    <td>AGES IV</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Gabriel Fanto</td>
+    <td>AGES IV</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Luiz Eduardo</td>
+    <td>AGES IV</td>
+    <td>✅❌</td>
+  </tr>
+</table>
+
+</details>
+</p>
+
+<p>
+<details>
+<summary>Daily 21/04/2023</summary>
 
 ```mermaid
 pie title Daily 21/04 - Sprint 2
-    "Participaram" : 16
-    "Não participaram" : 2
+    "Participaram - 17" : 17
+    "Não participaram - 1" : 1
 ```
 
+<h3>Participantes</h3>
+<table>
+  <tr>
+    <th>Nome</th>
+    <th>Nível</th>
+    <th>Presença</th>
+  </tr>
+  <tr>
+    <td>Brenda Pereira</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Carolina Ferreira</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Davi Oliveira</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Felipe Freitas</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Gabriel Giaretta</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Gabriel Ferreira</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Guilherme Pereira</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Matheus Caçabuena</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Arthur Mariano</td>
+    <td>AGES II</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Israel Garcia</td>
+    <td>AGES II</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Marcello Marcon</td>
+    <td>AGES II</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Pedro Carlucci</td>
+    <td>AGES II</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Arthur Ibarra</td>
+    <td>AGES III</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Kevin Ribas</td>
+    <td>AGES III</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Lucas Susin</td>
+    <td>AGES III</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>David Bertrand</td>
+    <td>AGES IV</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Gabriel Fanto</td>
+    <td>AGES IV</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Luiz Eduardo</td>
+    <td>AGES IV</td>
+    <td>✅❌</td>
+  </tr>
+</table>
+
+</details>
+</p>
+
+<p>
+<details>
+<summary>Daily 28/04/2023</summary>
+
+```mermaid
+pie title Daily 28/04 - Sprint 2
+    "Participaram - 5": 5
+    "Não participaram - 13": 13
+```
+
+<h3>Participantes</h3>
+<table>
+  <tr>
+    <th>Nome</th>
+    <th>Nível</th>
+    <th>Presença</th>
+  </tr>
+  <tr>
+    <td>Brenda Pereira</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Carolina Ferreira</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Davi Oliveira</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Felipe Freitas</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Gabriel Giaretta</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Gabriel Ferreira</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Guilherme Pereira</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Matheus Caçabuena</td>
+    <td>AGES I</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Arthur Mariano</td>
+    <td>AGES II</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Israel Garcia</td>
+    <td>AGES II</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Marcello Marcon</td>
+    <td>AGES II</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Pedro Carlucci</td>
+    <td>AGES II</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Arthur Ibarra</td>
+    <td>AGES III</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Kevin Ribas</td>
+    <td>AGES III</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Lucas Susin</td>
+    <td>AGES III</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>David Bertrand</td>
+    <td>AGES IV</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Gabriel Fanto</td>
+    <td>AGES IV</td>
+    <td>✅❌</td>
+  </tr>
+  <tr>
+    <td>Luiz Eduardo</td>
+    <td>AGES IV</td>
+    <td>✅❌</td>
+  </tr>
+</table>
+
+</details>
+</p>
