@@ -43,7 +43,7 @@
 
 - Foi iniciado oficialmente as Squads na Sprint 2 do Projeto
 
-[![](https://img.shields.io/badge/Trello_Oificial-000000?style=for-the-badge&logo=trello&logoColor=lightblue)](https://trello.com/b/ESwAWBs0/projeto-ve%C3%ADculos?filter=label:SQUAD+FANTO)
+[![](https://img.shields.io/badge/Trello_Squad_Fanto-000000?style=for-the-badge&logo=trello&logoColor=lightblue)](https://trello.com/b/ESwAWBs0/projeto-ve%C3%ADculos?filter=label:SQUAD+FANTO)
 
 #### Equipe
 
