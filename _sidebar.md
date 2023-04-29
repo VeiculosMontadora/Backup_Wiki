@@ -7,6 +7,7 @@
 * [Processo de desenvolvimento](https://tools.ages.pucrs.br/veiculos-via-montadora/wiki/-/wikis/processos)
 * [Gerênciamento do projeto](https://tools.ages.pucrs.br/veiculos-via-montadora/wiki/-/wikis/gerencia)
 * [Horários Disponíveis](https://tools.ages.pucrs.br/veiculos-via-montadora/wiki/-/wikis/horarios)
+* [Squads](https://tools.ages.pucrs.br/veiculos-via-montadora/wiki/-/wikis/squads)
 
 ###### Documentação técnica
 
