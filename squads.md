@@ -24,6 +24,11 @@
 
 - [SQUAD DO DAVID](#squad-do-david)
 - [SQUAD DO FANTO](#squad-do-fanto)
+    - [Sprint 2](#sprint-2)
+        - [Equipe](#equipe)
+        - [Organização](#organização)
+        - [Horários da Squad](#horários-da-squad)
+        - [Participantes Daily do Sábado](#participantes-dailys-do-sábado)
 - [SQUAD DO LUIZ](#squad-do-luiz)
 
 ---
@@ -38,14 +43,16 @@
 
 - Foi iniciado oficialmente as Squads na Sprint 2 do Projeto
 
+[![](https://img.shields.io/badge/Trello_Oificial-000000?style=for-the-badge&logo=trello&logoColor=lightblue)](https://trello.com/b/ESwAWBs0/projeto-ve%C3%ADculos?filter=label:SQUAD+FANTO)
+
 #### Equipe
 
 Nome | Nível AGES | Função Sprint 2
 |---|---|---|
-|Felipe Freitas|I|Responsável primário no Frontend
+|Felipe Freitas|I|Responsável secundário no Frontend
 |Gabriel Giaretta|I|Responsável primário no Backend
 |Israel Garcia|II|Responsável secundário no Backend<br>Auxiliar Gabriel Giaretta
-|Marcello Marcon|II|Responsável secundário no Frontend<br>Auxiliar Felipe Freitas
+|Marcello Marcon|II|Responsável primário no Frontend<br>Auxiliar Felipe Freitas
 |Arthur Ibarra|III|Arquiteto e responsável no auxilio do desenvolvimento
 |Gabriel Fanto|IV|Gerente e reponsável na gerencia e auxilio de toda a Squad
 
@@ -81,7 +88,7 @@ Tarefa|Pontos
 Responsáveis|Tarefa
 |---|---|
 Gabriel Giaretta (Primário)<br>Israel Garcia (Secundário)|[[E02-US02] Task 11 - Extração tabela modelos](https://trello.com/c/RCpXI6LB)
-Felipe Freitas (Primário)<br>Marcello Marcon (Secundário)|[[E02-US01] Tast 09 - Status das extrações](https://trello.com/c/pgYjm99l)
+Marcello Marcon (Primário)<br>Felipe Freitas (Secundário)|[[E02-US01] Tast 09 - Status das extrações](https://trello.com/c/pgYjm99l)
 Gabriel Giaretta (Primário)<br>Israel Garcia (Secundário)|[[E02-US02] Task 12 - Tabela Especificação Técnica](https://trello.com/c/IzChMXZC)
 
 #### Horários da Squad
@@ -167,6 +174,15 @@ Gabriel Giaretta (Primário)<br>Israel Garcia (Secundário)|[[E02-US02] Task 12 
 </details>
 </p>
 
+#### Participantes Dailys do Sábado
+
+* 22/04 era feriado e não nos reunimos para fazer daily síncrona.
+
+```mermaid
+pie title Daily 29/04 - Sprint 2
+    "Participaram" : 5
+    "Não participaram" : 1
+```
 
 ---
 
