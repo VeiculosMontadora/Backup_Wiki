@@ -117,7 +117,7 @@ pie title Daily 10/03 - Sprint 0
     <td>❌</td>
   </tr>
   <tr>
-    <td>Guilherme Pereira</td>
+    <td>Guilherme de Moraes</td>
     <td>AGES I</td>
     <td>❌</td>
   </tr>
@@ -229,7 +229,7 @@ pie title Daily 17/03 - Sprint 0
     <td>✅</td>
   </tr>
   <tr>
-    <td>Guilherme Pereira</td>
+    <td>Guilherme de Moraes</td>
     <td>AGES I</td>
     <td>✅</td>
   </tr>
@@ -341,7 +341,7 @@ pie title Daily 24/03 - Sprint 0
     <td>❌</td>
   </tr>
   <tr>
-    <td>Guilherme Pereira</td>
+    <td>Guilherme de Moraes</td>
     <td>AGES I</td>
     <td>✅</td>
   </tr>
@@ -455,7 +455,7 @@ pie title Daily 31/03 - Sprint 1
     <td>✅</td>
   </tr>
   <tr>
-    <td>Guilherme Pereira</td>
+    <td>Guilherme de Moraes</td>
     <td>AGES I</td>
     <td>✅</td>
   </tr>
@@ -567,7 +567,7 @@ pie title Daily 07/04 - Sprint 1
     <td>❌</td>
   </tr>
   <tr>
-    <td>Guilherme Pereira</td>
+    <td>Guilherme de Moraes</td>
     <td>AGES I</td>
     <td>❌</td>
   </tr>
@@ -681,7 +681,7 @@ pie title Daily 14/04 - Sprint 2
     <td>✅</td>
   </tr>
   <tr>
-    <td>Guilherme Pereira</td>
+    <td>Guilherme de Moraes</td>
     <td>AGES I</td>
     <td>✅</td>
   </tr>
@@ -793,7 +793,7 @@ pie title Daily 21/04 - Sprint 2
     <td>✅</td>
   </tr>
   <tr>
-    <td>Guilherme Pereira</td>
+    <td>Guilherme de Moraes</td>
     <td>AGES I</td>
     <td>✅</td>
   </tr>
@@ -905,7 +905,7 @@ pie title Daily 28/04 - Sprint 2
     <td>✅</td>
   </tr>
   <tr>
-    <td>Guilherme Pereira</td>
+    <td>Guilherme de Moraes</td>
     <td>AGES I</td>
     <td>❌</td>
   </tr>
