@@ -89,92 +89,92 @@ pie title Daily 10/03 - Sprint 0
   <tr>
     <td>Brenda Pereira</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
   <tr>
     <td>Carolina Ferreira</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
   <tr>
     <td>Davi Oliveira</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
   <tr>
     <td>Felipe Freitas</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Gabriel Giaretta</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
   <tr>
     <td>Gabriel Ferreira</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
   <tr>
     <td>Guilherme Pereira</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
   <tr>
     <td>Matheus Caçabuena</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
   <tr>
     <td>Arthur Mariano</td>
     <td>AGES II</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
   <tr>
     <td>Israel Garcia</td>
     <td>AGES II</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
   <tr>
     <td>Marcello Marcon</td>
     <td>AGES II</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
   <tr>
     <td>Pedro Carlucci</td>
     <td>AGES II</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
   <tr>
     <td>Arthur Ibarra</td>
     <td>AGES III</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
   <tr>
     <td>Kevin Ribas</td>
     <td>AGES III</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Lucas Susin</td>
     <td>AGES III</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
   <tr>
     <td>David Bertrand</td>
     <td>AGES IV</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
   <tr>
     <td>Gabriel Fanto</td>
     <td>AGES IV</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Luiz Eduardo</td>
     <td>AGES IV</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
 </table>
 
@@ -201,92 +201,92 @@ pie title Daily 17/03 - Sprint 0
   <tr>
     <td>Brenda Pereira</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Carolina Ferreira</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
   <tr>
     <td>Davi Oliveira</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Felipe Freitas</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Gabriel Giaretta</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
   <tr>
     <td>Gabriel Ferreira</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Guilherme Pereira</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Matheus Caçabuena</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Arthur Mariano</td>
     <td>AGES II</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
   <tr>
     <td>Israel Garcia</td>
     <td>AGES II</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
   <tr>
     <td>Marcello Marcon</td>
     <td>AGES II</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
   <tr>
     <td>Pedro Carlucci</td>
     <td>AGES II</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Arthur Ibarra</td>
     <td>AGES III</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Kevin Ribas</td>
     <td>AGES III</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Lucas Susin</td>
     <td>AGES III</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>David Bertrand</td>
     <td>AGES IV</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Gabriel Fanto</td>
     <td>AGES IV</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Luiz Eduardo</td>
     <td>AGES IV</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
 </table>
 
@@ -313,99 +313,99 @@ pie title Daily 24/03 - Sprint 0
   <tr>
     <td>Brenda Pereira</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Carolina Ferreira</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
   <tr>
     <td>Davi Oliveira</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
   <tr>
     <td>Felipe Freitas</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Gabriel Giaretta</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
   <tr>
     <td>Gabriel Ferreira</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
   <tr>
     <td>Guilherme Pereira</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Matheus Caçabuena</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
   <tr>
     <td>Arthur Mariano</td>
     <td>AGES II</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
   <tr>
     <td>Israel Garcia</td>
     <td>AGES II</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
   <tr>
     <td>Marcello Marcon</td>
     <td>AGES II</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
   <tr>
     <td>Pedro Carlucci</td>
     <td>AGES II</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Arthur Ibarra</td>
     <td>AGES III</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Kevin Ribas</td>
     <td>AGES III</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
   <tr>
     <td>Lucas Susin</td>
     <td>AGES III</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>David Bertrand</td>
     <td>AGES IV</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Gabriel Fanto</td>
     <td>AGES IV</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Luiz Eduardo</td>
     <td>AGES IV</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
 </table>
 
 </details>
 </p>
 
-### Daily Sprint 1
+### Sprint 1
 
 <p>
 <details>
@@ -427,92 +427,92 @@ pie title Daily 31/03 - Sprint 1
   <tr>
     <td>Brenda Pereira</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Carolina Ferreira</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Davi Oliveira</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Felipe Freitas</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Gabriel Giaretta</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
   <tr>
     <td>Gabriel Ferreira</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Guilherme Pereira</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Matheus Caçabuena</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Arthur Mariano</td>
     <td>AGES II</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
   <tr>
     <td>Israel Garcia</td>
     <td>AGES II</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Marcello Marcon</td>
     <td>AGES II</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
   <tr>
     <td>Pedro Carlucci</td>
     <td>AGES II</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Arthur Ibarra</td>
     <td>AGES III</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
   <tr>
     <td>Kevin Ribas</td>
     <td>AGES III</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
   <tr>
     <td>Lucas Susin</td>
     <td>AGES III</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>David Bertrand</td>
     <td>AGES IV</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Gabriel Fanto</td>
     <td>AGES IV</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Luiz Eduardo</td>
     <td>AGES IV</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
 </table>
 
@@ -539,99 +539,99 @@ pie title Daily 07/04 - Sprint 1
   <tr>
     <td>Brenda Pereira</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
   <tr>
     <td>Carolina Ferreira</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
   <tr>
     <td>Davi Oliveira</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
   <tr>
     <td>Felipe Freitas</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Gabriel Giaretta</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Gabriel Ferreira</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
   <tr>
     <td>Guilherme Pereira</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
   <tr>
     <td>Matheus Caçabuena</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Arthur Mariano</td>
     <td>AGES II</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
   <tr>
     <td>Israel Garcia</td>
     <td>AGES II</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
   <tr>
     <td>Marcello Marcon</td>
     <td>AGES II</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
   <tr>
     <td>Pedro Carlucci</td>
     <td>AGES II</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
   <tr>
     <td>Arthur Ibarra</td>
     <td>AGES III</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Kevin Ribas</td>
     <td>AGES III</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
   <tr>
     <td>Lucas Susin</td>
     <td>AGES III</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
   <tr>
     <td>David Bertrand</td>
     <td>AGES IV</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
   <tr>
     <td>Gabriel Fanto</td>
     <td>AGES IV</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Luiz Eduardo</td>
     <td>AGES IV</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
 </table>
 
 </details>
 </p>
 
-### Daily Sprint 2
+### Sprint 2
 
 <p>
 <details>
@@ -653,92 +653,92 @@ pie title Daily 14/04 - Sprint 2
   <tr>
     <td>Brenda Pereira</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
   <tr>
     <td>Carolina Ferreira</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Davi Oliveira</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
   <tr>
     <td>Felipe Freitas</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Gabriel Giaretta</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Gabriel Ferreira</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Guilherme Pereira</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Matheus Caçabuena</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Arthur Mariano</td>
     <td>AGES II</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
   <tr>
     <td>Israel Garcia</td>
     <td>AGES II</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
   <tr>
     <td>Marcello Marcon</td>
     <td>AGES II</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Pedro Carlucci</td>
     <td>AGES II</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Arthur Ibarra</td>
     <td>AGES III</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Kevin Ribas</td>
     <td>AGES III</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Lucas Susin</td>
     <td>AGES III</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>David Bertrand</td>
     <td>AGES IV</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Gabriel Fanto</td>
     <td>AGES IV</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
   <tr>
     <td>Luiz Eduardo</td>
     <td>AGES IV</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
 </table>
 
@@ -765,92 +765,92 @@ pie title Daily 21/04 - Sprint 2
   <tr>
     <td>Brenda Pereira</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Carolina Ferreira</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Davi Oliveira</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Felipe Freitas</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Gabriel Giaretta</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Gabriel Ferreira</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Guilherme Pereira</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Matheus Caçabuena</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Arthur Mariano</td>
     <td>AGES II</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
   <tr>
     <td>Israel Garcia</td>
     <td>AGES II</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Marcello Marcon</td>
     <td>AGES II</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Pedro Carlucci</td>
     <td>AGES II</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Arthur Ibarra</td>
     <td>AGES III</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Kevin Ribas</td>
     <td>AGES III</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Lucas Susin</td>
     <td>AGES III</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>David Bertrand</td>
     <td>AGES IV</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Gabriel Fanto</td>
     <td>AGES IV</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Luiz Eduardo</td>
     <td>AGES IV</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
 </table>
 
@@ -877,92 +877,92 @@ pie title Daily 28/04 - Sprint 2
   <tr>
     <td>Brenda Pereira</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Carolina Ferreira</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
   <tr>
     <td>Davi Oliveira</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
   <tr>
     <td>Felipe Freitas</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Gabriel Giaretta</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Gabriel Ferreira</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Guilherme Pereira</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
   <tr>
     <td>Matheus Caçabuena</td>
     <td>AGES I</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Arthur Mariano</td>
     <td>AGES II</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
   <tr>
     <td>Israel Garcia</td>
     <td>AGES II</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
   <tr>
     <td>Marcello Marcon</td>
     <td>AGES II</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
   <tr>
     <td>Pedro Carlucci</td>
     <td>AGES II</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
   <tr>
     <td>Arthur Ibarra</td>
     <td>AGES III</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
   <tr>
     <td>Kevin Ribas</td>
     <td>AGES III</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
   <tr>
     <td>Lucas Susin</td>
     <td>AGES III</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>David Bertrand</td>
     <td>AGES IV</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
   <tr>
     <td>Gabriel Fanto</td>
     <td>AGES IV</td>
-    <td>✅❌</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Luiz Eduardo</td>
     <td>AGES IV</td>
-    <td>✅❌</td>
+    <td>❌</td>
   </tr>
 </table>
 
