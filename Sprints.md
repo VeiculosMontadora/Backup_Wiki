@@ -863,8 +863,8 @@ pie title Daily 21/04 - Sprint 2
 
 ```mermaid
 pie title Daily 28/04 - Sprint 2
-    "Participaram - 5": 5
-    "Não participaram - 13": 13
+    "Participaram - 7": 7
+    "Não participaram - 11": 11
 ```
 
 <h3>Participantes</h3>
