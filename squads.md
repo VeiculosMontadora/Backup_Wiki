@@ -35,7 +35,59 @@
 
 ## SQUAD DO DAVID
 
+#### Equipe
+
+Nome | Nível AGES | Função Sprint 2
+|---|---|---|
+|Brenda Pereira|I|Responsável Primário no Frontend
+|Guilherme de Moraes|I|Responsável secundário no Backend
+|Davi Oliveira|I|Responsável secundário no Backend
+|Pedro Carlucci|II|Responsável primário no Bacend<br>Auxiliar Felipe Freitas
+|Lucas Suzin|III|Arquiteto e responsável no auxilio do desenvolvimento
+|David Neto|IV|Gerente e reponsável na gerencia e auxilio de toda a Squad
 ---
+
+**Primário** significa que a pessoa é responsável de atualizar a tarefa no Trello e ser o desenvolvedor da tarefa
+
+**Secundário** significa que deve dar auxilio ao desenvolvedor primário e deve documentar o processo do desenvolvimento.
+
+#### Organização
+
+- Não definimos nenhuma daily extra durante a semana.
+- Foi estimado as tarefas utilizando o `Planning Poker` com o seguinte sistema de Fibonnaci:
+
+Carta|Descrição|Explicação
+|---|---|---|
+1|Trivial|Super fácil e sei fazer.
+2|Confortável|Fácil, mas preciso validar se é fácil mesmo.
+3|Rotina|Sei fazer mas preciso de ajuda.
+5|Acho que não é dificil|Não sei fazer mas me parece simples.
+8|Desafiador|Falta de conhecimento e devo ter que estudar como fazer.
+13|Intimidador|Dificil por experiência ou por não ter vivencia no assunto.
+?|Dúvida|Não entendi e preciso tirar umas dúvidas sobre.
+
+**Sprint 02**
+
+Para a sprint 02, foram definidas as seguintes tarefas com as seguintes pontuações:
+
+Tarefa|Pontos
+|---|---|
+[[E02-US01] Task 10 - Finalização de extração](https://trello.com/c/rDaHIP0v)|5 Pontos
+[[E01-US03] Task 07 - Envio para Extração](https://trello.com/c/u3yq0j86)| 8 Pontos
+[[E01-US01] Task 04 - Recebimento de PDF](https://trello.com/c/3D2cygjL)| 5 Pontos
+
+**Sprint 03**
+
+Para a sprint 03, foram definidas as seguintes tarefas com as seguintes pontuações:
+
+Tarefa|Pontos
+|---|---|
+[[E03 - US01] Task 01 - Fazer a integração dos dados do back no front](https://trello.com/c/SutZPW1Y)| 13 Pontos
+[[E03 - US01] Task 05 - Criar a estrutura/componente do campo de visualização](https://trello.com/c/VXbpi8px)|3 Pontos
+[[E03 - US01] Task 07 - Integrar o componente [Inputs + Estrutura] com a tela de visualização](https://trello.com/c/IgGepmx1)| 3 Pontos
+[[E03 - US01] Task 11 - Criar uma forma de armazenar os dados do PDF](https://trello.com/c/czsm7MJz)| 8 Pontos
+[[E03 - US01] Task 12 - Endpoint para atualizar os inputs do PDF](https://trello.com/c/Z4dueXYV)| 3 Pontos
+[[E03 - US02] Task 06 - Endpoint para retornar todos os PDFs](https://trello.com/c/xpSjQTewV)| 3 Pontos
 
 ## SQUAD DO FANTO
 
