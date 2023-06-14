@@ -31,32 +31,84 @@ TBD (Explicação do banco de dados)
 
 ```json
 {
-  "veiculo": {
-    "desc_cat": "string",
-    "renavam_desc": "string",
-    "sigla": "string",
-    "pacote_def_modelo": "string",
-    "versao": "string",
-    "ano": "string",
-    "marca": "string",
-    "linha": "string",
-    "motor": {
-      "cilindradas": "string",
-      "nro_cilindradas": "string",
-      "combustiveis": [
-        {
-          "potencia": "string",
-          "tipo_combustivel": "string"
-        }
-      ]
-    },
-    "carga": "string",
-    "num_passag": "string",
-    "num_portas": "string",
-    "num_renavam": "string",
+  "pdf": {
+    "nome": "string",
     "status": "string",
-    "pdf_names": [
-      "string"
+    "ultimo_visto": "Date",
+    "criado": "Date",
+    "veiculos": [
+      {
+        "desc_cat": {
+          "valor": "string",
+          "copiado": true
+        },
+        "renavam_desc": {
+          "valor": "string",
+          "copiado": true
+        },
+        "sigla": {
+          "valor": "string",
+          "copiado": true
+        },
+        "pacote_def_modelo": {
+          "valor": "string",
+          "copiado": true
+        },
+        "versao": {
+          "valor": "string",
+          "copiado": true
+        },
+        "ano": {
+          "valor": "string",
+          "copiado": true
+        },
+        "marca": {
+          "valor": "string",
+          "copiado": true
+        },
+        "linha": {
+          "valor": "string",
+          "copiado": true
+        },
+        "motor": {
+          "cilindradas": {
+            "valor": "string",
+            "copiado": true
+          },
+          "nro_cilindradas": {
+            "valor": "string",
+            "copiado": true
+          },
+          "combustiveis": [
+            {
+              "potencia": {
+                "valor": "string",
+                "copiado": true
+              },
+              "tipo_combustivel": {
+                "valor": "string",
+                "copiado": true
+              }
+            }
+          ]
+        },
+        "carga": {
+          "valor": "string",
+          "copiado": true
+        },
+        "num_passag": {
+          "valor": "string",
+          "copiado": true
+        },
+        "num_portas": {
+          "valor": "string",
+          "copiado": true
+        },
+        "num_renavam": {
+          "valor": "string",
+          "copiado": true
+        }
+      }
     ]
   }
 }
