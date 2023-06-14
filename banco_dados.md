@@ -22,8 +22,7 @@
 ---
 
 - Nosso banco de dados será não-relacional utilizando a tecnologia MongoDB
-- Foi escolhido um banco não-relacional devido a facilidade de se desenvolver e modificar o banco conforme as necessidades. Outro motivo foi a pouca quantidade de entidades de banco necessárias para a aplicação, assim tornando a utilização do MongoDB, orientado a documentos, a melhor escolha.
--
+
 ---
 
 ### Estrutura do banco em JSON
