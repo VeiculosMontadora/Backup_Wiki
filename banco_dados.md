@@ -22,9 +22,8 @@
 ---
 
 - Nosso banco de dados será não-relacional utilizando a tecnologia MongoDB
-
-TBD (Explicação do banco de dados)
-
+- Foi escolhido um banco não-relacional devido a facilidade de se desenvolver e modificar o banco conforme as necessidades. Outro motivo foi a pouca quantidade de entidades de banco necessárias para a aplicação, assim tornando a utilização do MongoDB, orientado a documentos, a melhor escolha.
+-
 ---
 
 ### Estrutura do banco em JSON
@@ -116,5 +115,4 @@ TBD (Explicação do banco de dados)
 
 ### Diagrama do Banco de dados
 
-![](https://tools.ages.pucrs.br/veiculos-via-montadora/wiki/-/raw/main/pictures/database.png)
-
+![PDF_DataModel](uploads/6d267bfa8c0020bdca4ca9b0b10269c5/PDF_DataModel.png)
