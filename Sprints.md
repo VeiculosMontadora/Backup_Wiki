@@ -20,16 +20,19 @@
 # $`\mathbb{CONTROLE \space DE \space SPRINTS}`$
 ---
 
-- [Cronograma](#cronograma)
+- [Documentação do negócio](#documentação-do-negócio)
+- [Documentação técnica](#documentação-técnica)
+- [$`\mathbb{CONTROLE \space DE \space SPRINTS}`$](#mathbbcontrole-space-de-space-sprints)
+  - [Cronograma](#cronograma)
     - [Sprint 0](#sprint-0)
     - [Sprint 1](#sprint-1)
     - [Sprint 2](#sprint-2)
     - [Sprint 3](#sprint-3)
     - [Sprint 4](#sprint-4)
-- [Controle das Dailys de sextas feiras](#controle-das-dailys-de-sextas-feiras)
-    - [Sprint 0](#daily-sprint-0)
-    - [Sprint 1](#daily-sprint-1)
-    - [Sprint 2](#daily-sprint-2)
+  - [Controle das Dailys de sextas feiras](#controle-das-dailys-de-sextas-feiras)
+    - [Sprint 0](#sprint-0-1)
+    - [Sprint 1](#sprint-1-1)
+    - [Sprint 2](#sprint-2-1)
 
 ---
 
@@ -41,17 +44,36 @@
 - Fim: 27/03/2023
 - Apresentação para os Stakeholders: $`\color{red}\bold{22/03/2023}`$
 
+Descrição | Status
+--------- | ------
+Levantamento de Requisitos | $`\color{green}\bold{Aceito}`$
+Mockups | $`\color{green}\bold{Aceito}`$
+
 ### Sprint 1
 
 - Começo: 29/03/2023
 - Fim: 12/04/2023
 - Apresentação para os Stakeholders: $`\color{red}\bold{10/04/2023}`$
 
+US | Descrição | Status |
+-- | --------- | ------ |
+US01 | Tela de Envio de PDFs | $`\color{red}\bold{Não}`$ $`\color{red}\bold{Aceito}`$
+US03 | Tela de Extração de Dados | $`\color{red}\bold{Não}`$ $`\color{red}\bold{Aceito}`$
+US04 | Tela de Conclusão da Extração | $`\color{red}\bold{Não}`$ $`\color{red}\bold{Aceito}`$
+
 ### Sprint 2
 
-- Começo: 19/04/2023
+- Começo: 17/04/2023
 - Fim: 10/05/2023
 - Apresentação para o Stakeholders: $`\color{red}\bold{08/05/2023}`$
+
+US | Descrição | Status |
+-- | --------- | ------ |
+E01-US01 | Exportação de PDF | $`\color{green}\bold{Aceito}`$
+E01-US02 | Visualizar PDFs enviados | $`\color{green}\bold{Aceito}`$
+E01-US03 | Enviar PDF para análise | $`\color{green}\bold{Aceito}`$
+E02-US01 | Gerenciamento de Extração | $`\color{green}\bold{Aceito}`$
+E02-US02 | Extração MEV Tracker | $`\color{orange}\bold{Dívida}`$ $`\color{orange}\bold{Técnica}`$
 
 ### Sprint 3
 
@@ -59,11 +81,26 @@
 - Fim: 29/05/2023
 - Apresentação para os Stakeholders: $`\color{red}\bold{24/05/2023}`$
 
+US | Descrição | Status |
+-- | --------- | ------ |
+E02-US06 | Extração Jeep | $`\color{green}\bold{Aceito}`$
+E03-US01 | Visualizar os dados do PDF | $`\color{green}\bold{Aceito}`$
+E03-US02 | Lista de PDFs extraídos | $`\color{green}\bold{Aceito}`$
+
 ### Sprint 4
 
 - Começo: 31/05/2023
 - Fim: 14/06/2023
 - Apresentação para os Stakeholders: $`\color{red}\bold{14/06/2023}`$
+
+US | Descrição | Status |
+-- | --------- | ------ |
+E03-US03 | Editar os dados de um PDF |
+E03-US04 | Alterar o status de um PDF |
+E03-US05 | Exportar os dados para JSON |
+E03-US06 | Exportar os dados para CSV |
+NO-US | Botão Salvar |
+NO-US | Excluir um ou mais PDFs já carregados |
 
 ## Controle das Dailys de sextas feiras
 

@@ -20,16 +20,27 @@
 
 # $`\mathbb{ORGANIZAÇÃO \space DAS \space SQUADS}`$
 
+Ao fim da terceira sprint, a equipe optou por não continuar com a estrutura de squads. Na visão do grupo, a equipe já estava informalmente trabalhando como se não existissem squads, tendo uma comunicação constante entre as squads.
+
 ---
 
-- [SQUAD DO DAVID](#squad-do-david)
-- [SQUAD DO FANTO](#squad-do-fanto)
+- [Documentação do negócio](#documentação-do-negócio)
+- [Documentação técnica](#documentação-técnica)
+- [$`\mathbb{ORGANIZAÇÃO \space DAS \space SQUADS}`$](#mathbborganização-space-das-space-squads)
+  - [SQUAD DO DAVID](#squad-do-david)
+      - [Equipe](#equipe)
+  - [|David Neto|IV|Gerente e reponsável na gerencia e auxilio de toda a Squad](#david-netoivgerente-e-reponsável-na-gerencia-e-auxilio-de-toda-a-squad)
+      - [Organização](#organização)
+  - [SQUAD DO FANTO](#squad-do-fanto)
     - [Sprint 2](#sprint-2)
-        - [Equipe](#equipe)
-        - [Organização](#organização)
-        - [Horários da Squad](#horários-da-squad)
-        - [Participantes Daily do Sábado](#participantes-dailys-do-sábado)
-- [SQUAD DO LUIZ](#squad-do-luiz)
+      - [Equipe](#equipe-1)
+      - [Organização](#organização-1)
+      - [Horários da Squad](#horários-da-squad)
+      - [Participantes Dailys do Sábado](#participantes-dailys-do-sábado)
+  - [SQUAD DO LUIZ](#squad-do-luiz)
+    - [Sprint 2](#sprint-2-1)
+      - [Equipe](#equipe-2)
+      - [Organização](#organização-2)
 
 ---
 

@@ -36,6 +36,30 @@
 
 ### $`\mathbb{BACKEND}`$
 
+1. Instale o Python, versão >= 3.9
+2. Instale o Docker, em sua versão mais recente
+3. Instale o gerenciador de dependências Poetry na versão 1.4.1:
+```
+$ pip install poetry==1.4.1
+```
+4. Configure o virtualenv:
+```
+$ poetry config virtualenvs.in-project true
+```
+5. Instale as dependências:
+```
+$ poetry install
+```
+6. Agora o backend pode ser executado:
+```
+poetry run uvicorn app.main:app --reload
+```
 ---
 
 ### $`\mathbb{DATABASE}`$
+
+1. Instale o Docker, em sua versão mais recente
+2. O banco de dados pode ser executado com o comando:
+```
+docker compose up mongodb
+```
