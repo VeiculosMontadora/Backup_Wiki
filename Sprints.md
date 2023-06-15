@@ -95,13 +95,13 @@ E03-US02 | Lista de PDFs extraídos | $`\color{green}\bold{Aceito}`$
 
 US | Descrição | Status |
 -- | --------- | ------ |
-E03-US03 | Editar os dados de um PDF |
-E03-US04 | Alterar o status de um PDF |
-E03-US05 | Exportar os dados para JSON |
-E03-US06 | Exportar os dados para CSV |
-NO-US | Botão Salvar |
-NO-US | Excluir um ou mais PDFs já carregados |
-
+E03-US03 | Editar os dados de um PDF | $`\color{red}\bold{Não}`$ $`\color{red}\bold{Aceito}`$
+E03-US04 | Alterar o status de um PDF | $`\color{green}\bold{Aceito}`$
+E03-US05 | Exportar os dados para JSON | $`\color{green}\bold{Aceito}`$
+E03-US06 | Exportar os dados para CSV | $`\color{green}\bold{Aceito}`$
+NO-US | Botão Salvar | $`\color{orange}\bold{Dívida}`$ $`\color{orange}\bold{Técnica}`$
+NO-US | Excluir um ou mais PDFs já carregados | $`\color{green}\bold{Aceito}`$
+NO-US | Ajustes de Layout | $`\color{green}\bold{Aceito}`$
 ## Controle das Dailys de sextas feiras
 
 ### Sprint 0
