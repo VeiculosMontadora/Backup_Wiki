@@ -46,10 +46,7 @@ Para este projeto, foi-se definido que teremos 2 branches principais, `main` e `
 
 - `main`: Essa é a branch principal que armazenará o código de cada entrega por Sprint, nessa branch é estritamente necessário que tenhamos o código da aplicação funcionando sem erros, já testado e validado.
 
-- `develop` … (A ser feito)
-
-(Falar aqui embaixo que as branches devem partir de develop e entrar em develop, sempre).
-
+- `develop`: Deve-se sempre criar novas branches a partir da develop. Ela será nosso ambiente de desenvolvimento.
 
 ### Nomes das Branches
 
