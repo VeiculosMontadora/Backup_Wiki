@@ -15,7 +15,6 @@
 [![](https://img.shields.io/badge/Mockups-000000?style=for-the-badge&logo=markdown&logoColor=white)](mockups)
 [![](https://img.shields.io/badge/Banco_de_dados-000000?style=for-the-badge&logo=markdown&logoColor=white)](banco_dados)
 [![](https://img.shields.io/badge/Instalação-000000?style=for-the-badge&logo=markdown&logoColor=white)](instalacao)
-[![](https://img.shields.io/badge/Configuração-000000?style=for-the-badge&logo=markdown&logoColor=white)](configuracao)
 
 ---
 # $`\mathbb{REQUISITOS}`$
@@ -23,17 +22,20 @@
 
 Documento melhorado: [User Stories (Github)](https://github.com/VeiculosMontadora/Management/blob/main/UserStories.md)
 
-- [Épicos](#épicos)
+- [Documentação do negócio](#documentação-do-negócio)
+- [Documentação técnica](#documentação-técnica)
+- [$`\mathbb{REQUISITOS}`$](#mathbbrequisitos)
+  - [Épicos](#épicos)
     - [E01](#e01)
     - [E02](#e02)
     - [E03](#e03)
-- [USER STORIES](#user-stories)
+  - [USER STORIES](#user-stories)
     - [E01-US01](#e01-us01)
     - [E01-US02](#e01-us02)
     - [E01-US03](#e01-us03)
     - [E02-US01](#e02-us01)
     - [E02-US02](#e02-us02)
-    - [E02-US03](#e02-us03)
+- [E02-US03](#e02-us03)
     - [E02-US04](#e02-us04)
     - [E02-US05](#e02-us05)
     - [E02-US06](#e02-us06)

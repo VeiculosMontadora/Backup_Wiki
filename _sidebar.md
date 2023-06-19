@@ -15,4 +15,3 @@
 * [Mockups](https://tools.ages.pucrs.br/veiculos-via-montadora/wiki/-/wikis/mockups)
 * [Banco de dados](https://tools.ages.pucrs.br/veiculos-via-montadora/wiki/-/wikis/banco_dados)
 * [Instalação](https://tools.ages.pucrs.br/veiculos-via-montadora/wiki/-/wikis/instalacao)
-* [Configuração](https://tools.ages.pucrs.br/veiculos-via-montadora/wiki/-/wikis/configuracao)

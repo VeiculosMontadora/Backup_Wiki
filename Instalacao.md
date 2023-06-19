@@ -14,13 +14,21 @@
 [![](https://img.shields.io/badge/Arquitetura-000000?style=for-the-badge&logo=markdown&logoColor=white)](arquitetura)
 [![](https://img.shields.io/badge/Mockups-000000?style=for-the-badge&logo=markdown&logoColor=white)](mockups)[![](https://img.shields.io/badge/Banco_de_dados-000000?style=for-the-badge&logo=markdown&logoColor=white)](banco_dados)
 [![](https://img.shields.io/badge/Instalação-FF7518?style=for-the-badge&logo=markdown&logoColor=black)](instalacao)
-[![](https://img.shields.io/badge/Configuração-000000?style=for-the-badge&logo=markdown&logoColor=white)](configuracao)
 
 ---
 # $`\mathbb{INSTALAÇÕES \space NECESSÁRIAS}`$
 ---
 
 ### $`\mathbb{FRONTEND}`$
+<br>
+
+ ![Static Badge](https://img.shields.io/badge/Linguagem%3A--gray)
+![Static Badge](https://img.shields.io/badge/Javascript-black?logo=javascript)
+
+![Static Badge](https://img.shields.io/badge/Biblioteca_Javascript-React-blue)
+![Static Badge](https://img.shields.io/badge/Enviroment-Node.js-green)
+![Static Badge](https://img.shields.io/badge/Interface-MaterialUI-orange)
+
 
 ## Como executar para ambiente de desenvolvimento
 
@@ -35,6 +43,16 @@
 ---
 
 ### $`\mathbb{BACKEND}`$
+<br>
+
+![Static Badge](https://img.shields.io/badge/Linguagem%3A--gray)
+![Static Badge](https://img.shields.io/badge/Python-blue?logo=python&color=black)
+
+![Static Badge](https://img.shields.io/badge/Framework-FastAPI-lightblue)
+![Static Badge](https://img.shields.io/badge/Arquitetura-REST-green)
+![Static Badge](https://img.shields.io/badge/Testes-PyTest-orange)
+
+- Passos:
 
 1. Instale o Python, versão >= 3.9
 2. Instale o Docker, em sua versão mais recente
@@ -42,21 +60,25 @@
 ```
 $ pip install poetry==1.4.1
 ```
-4. Configure o virtualenv:
+1. Configure o virtualenv:
 ```
 $ poetry config virtualenvs.in-project true
 ```
-5. Instale as dependências:
+1. Instale as dependências:
 ```
 $ poetry install
 ```
-6. Agora o backend pode ser executado:
+1. Agora o backend pode ser executado:
 ```
 poetry run uvicorn app.main:app --reload
 ```
 ---
 
 ### $`\mathbb{DATABASE}`$
+<br>
+
+![Static Badge](https://img.shields.io/badge/Docker-black?logo=docker)
+
 
 1. Instale o Docker, em sua versão mais recente
 2. O banco de dados pode ser executado com o comando:
