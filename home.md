@@ -28,9 +28,9 @@
 
 #### Stakeholders
 ------------------------------------------
- * Leonardo Cunha
- * Luana Lima Vieira
- * Fabiano Longaray
+ * [Leonardo Cunha](https://www.linkedin.com/in/leoscunha)
+ * [Luana Lima Vieira](https://www.linkedin.com/in/luana-vieira-a464b5160)
+ * [Fabiano Longaray](https://www.linkedin.com/in/fabianolongaray)
 
 #### Professor Orientador
 ------------------------------------------
@@ -67,8 +67,12 @@
  * <td><a href="https://tools.ages.pucrs.br/luiz.reis">Luiz Eduardo Mello dos Reis</a></td>
 
 
-### Foto do time :100: 
+## Foto do time :100: 
 ![Time](https://tools.ages.pucrs.br/veiculos-via-montadora/wiki/-/raw/main/pictures/equipe.jpg)
 
 ## Termo de Abertura
 <td><a href="https://www.ages.pucrs.br/lista-de-projetos-2023-1/veiculos-via-montadora/">Veículos Via Montadora</a></td>
+
+## Breve resumo
+
+<img src="uploads\6d267bfa8c0020bdca4ca9b0b10269c5\5w2h-veiculos.png">
