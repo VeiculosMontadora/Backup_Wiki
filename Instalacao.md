@@ -77,7 +77,14 @@ poetry run uvicorn app.main:app --reload
 ### $`\mathbb{DATABASE}`$
 <br>
 
+![Static Badge](https://img.shields.io/badge/Tecnologia_de_Conteineriza%C3%A7%C3%A3o%3A-gray)
 ![Static Badge](https://img.shields.io/badge/Docker-black?logo=docker)
+
+![Static Badge](https://img.shields.io/badge/Banco%20de%20dados-N%C3%A3o_Relacional-red)
+
+![Static Badge](https://img.shields.io/badge/Tecnologia%3A-gray)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&logo=mongodb&logoColor=white)
+
 
 
 1. Instale o Docker, em sua versão mais recente
