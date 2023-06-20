@@ -20,11 +20,14 @@
 # $`\mathbb{BANCO \space DE \space DADOS}`$
 ---
 
-- Nosso banco de dados será não-relacional utilizando a tecnologia MongoDB
+![Static Badge](https://img.shields.io/badge/Banco%20de%20dados-N%C3%A3o_Relacional-red)
+
+![Static Badge](https://img.shields.io/badge/Tecnologia%3A-gray)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&logo=mongodb&logoColor=white)
 
 ---
 
-### Estrutura do banco em JSON
+### $`\sf Estrutura \space do \space banco \space em \space JSON`$
 
 ```json
 {
@@ -111,6 +114,8 @@
 }
 ```
 
-### Diagrama do Banco de dados
+---
 
-![PDF_DataModel](uploads/6d267bfa8c0020bdca4ca9b0b10269c5/PDF_DataModel.png)
+### $`\sf Diagrama \space do \space Banco \space de \space Dados`$
+
+![PDF_DataModel](uploads/Database.png)

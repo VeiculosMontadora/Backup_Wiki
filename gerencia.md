@@ -61,7 +61,9 @@ Forças|Fraquezas|Oportunidades|Ameaças
 |---|---|---|---|
 Equipe grande(mão de obra abundante)<br><br>Membros da equipe com preparo técnico<br><br>Cliente empolgado e a par de tecnologias<br><br>Equipe determinada|Equipe majoritariamente composta por AGES I<br><br>Complexidade do "core" do projeto(extração de PDFs)|Desenvolver uma infraestrutura de qualidade<br><br>Ter contato com uma linguagem de programação em abundância(Python)<br><br>Ter contato com a área de análise e extração de dados<br><br>Desenvolvimento de Hard e Soft Skills de toda a equipe|Organização de um time muito grande<br><br>Falhas de comunicação<br><br>Desistências<br><br>Desinteresse em aprender devido a quantidade de tópicos
 
-### É / Não é, Faz / Não faz
+### $$`\sf É \space / \space Não \space é, \space Faz \space / \space Não \space faz`$$
 
-![Atividade É – Não é – Faz – Não faz](https://tools.ages.pucrs.br/veiculos-via-montadora/wiki/-/raw/main/pictures/management/eh-nao-eh-faz-nao-faz.jpg)
+<table align="center"><tr><td align="center" width="9999">
+<img src="https://tools.ages.pucrs.br/veiculos-via-montadora/wiki/-/raw/main/pictures/management/eh-nao-eh-faz-nao-faz.jpg" width="550">
+</td></tr></table>
 
