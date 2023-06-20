@@ -73,7 +73,7 @@
 ## Termo de Abertura
 <td><a href="https://www.ages.pucrs.br/lista-de-projetos-2023-1/veiculos-via-montadora/">Veículos Via Montadora</a></td>
 
-## Breve resumo
+## 5W2H do projeto
 
 <table align="center"><tr><td align="center" width="9999">
 <img src="uploads\6d267bfa8c0020bdca4ca9b0b10269c5\5w2h-veiculos.png">
