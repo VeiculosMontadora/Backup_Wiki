@@ -118,4 +118,6 @@
 
 ### $`\sf Diagrama \space do \space Banco \space de \space Dados`$
 
+- Diagrama pode ser visualizado com o código JSON no site [JSON CRACK](https://jsoncrack.com/editor)
+
 ![PDF_DataModel](uploads/Database.png)
