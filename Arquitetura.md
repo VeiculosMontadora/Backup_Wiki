@@ -68,16 +68,16 @@ Neste diagrama, temos os seguintes componentes:
 ```mermaid
 graph
 
-subgraph Diagrama de Arquivos
-    init("#128193; backend/")
-    app("#128193; app/")
-    apis("#128193; api/")
-    databases("#128193; database/")
-    pdfs("#128193; pdf/")
-    tests("#128193; test/")
-    utilss("#128193; utils/")
-    configpy("#128196; config.py")
-    mainpy("#128196; main.py")
+    subgraph Diagrama de Arquivos
+        init("#128193; backend/")
+        app("#128193; app/")
+        apis("#128193; api/")
+        databases("#128193; database/")
+        pdfs("#128193; pdf/")
+        tests("#128193; test/")
+        utilss("#128193; utils/")
+        configpy("#128196; config.py")
+        mainpy("#128196; main.py")
 
     subgraph api
         mappers("#128193; mappers/")
@@ -110,22 +110,22 @@ subgraph Diagrama de Arquivos
         pdfmockers("#128196; pdf_mocker.py")
         veiculomocker("#128196; veiculo_mocker.py")
     end
+    
+    init --> app
+    init --> configpy
+    init --> mainpy
+    app --> apis
+    app --> databases
+    app --> pdfs
+    app --> tests
+    app --> utilss
+    apis --> api
+    pdfs --> pdf
+    mocker --> mockers
+    databases --> database
+    tests --> test
+    utilss --> util
 end
-
-init --> app
-init --> configpy
-init --> mainpy
-app --> apis
-app --> databases
-app --> pdfs
-app --> tests
-app --> utilss
-apis --> api
-pdfs --> pdf
-mocker --> mockers
-databases --> database
-tests --> test
-utilss --> util
 
 ```
 
